@@ -1,0 +1,380 @@
+rs12453443	chr17:36104120	MAX	HepG2	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	CHD1	H1-hESC	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	SUZ12	NT2-D1	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	NHDF-Ad	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	HSMM	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	CTCF	Caco-2	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	CTCF	GM12878	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	EZH2	NHLF	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	MAX	A549	ChIP-seq		Protein_Binding
+rs12453443	chr17:36104120	POLR2A	A549	ChIP-seq	NA	Protein_Binding
+rs12453443	chr17:36104120	TCF12	A549	ChIP-seq	NA	Protein_Binding
+rs10908278	chr17:36099951	HFH8(FOXF1A)		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa5		PWM	Motifs
+rs10908278	chr17:36099951	En2		PWM	Motifs
+rs10908278	chr17:36099951	Lmx1a		PWM	Motifs
+rs10908278	chr17:36099951	Nkx6-3		PWM	Motifs
+rs10908278	chr17:36099951	HNF3		PWM	Motifs
+rs10908278	chr17:36099951	HFH4(FOXJ1)		PWM	Motifs
+rs10908278	chr17:36099951	Pou3f2		PWM	Motifs
+rs10908278	chr17:36099951	Nkx6-1		PWM	Motifs
+rs10908278	chr17:36099951	Dlx1		PWM	Motifs
+rs10908278	chr17:36099951	Alx3		PWM	Motifs
+rs10908278	chr17:36099951	LHX2		PWM	Motifs
+rs10908278	chr17:36099951	HOXB3		PWM	Motifs
+rs10908278	chr17:36099951	Hoxb4		PWM	Motifs
+rs10908278	chr17:36099951	FOXC1		PWM	Motifs
+rs10908278	chr17:36099951	Pax6		PWM	Motifs
+rs10908278	chr17:36099951	Nkx1-2		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa7		PWM	Motifs
+rs10908278	chr17:36099951	HOXA7		PWM	Motifs
+rs10908278	chr17:36099951	Arx		PWM	Motifs
+rs10908278	chr17:36099951	Dbx1		PWM	Motifs
+rs10908278	chr17:36099951	Freac-7		PWM	Motifs
+rs10908278	chr17:36099951	EMX2		PWM	Motifs
+rs10908278	chr17:36099951	Cart1		PWM	Motifs
+rs10908278	chr17:36099951	Cdx		PWM	Motifs
+rs10908278	chr17:36099951	Hoxc8		PWM	Motifs
+rs10908278	chr17:36099951	PROP1		PWM	Motifs
+rs10908278	chr17:36099951	Prop-1		PWM	Motifs
+rs10908278	chr17:36099951	POU3F3		PWM	Motifs
+rs10908278	chr17:36099951	Lhx1		PWM	Motifs
+rs10908278	chr17:36099951	HOXC-8		PWM	Motifs
+rs10908278	chr17:36099951	lhx6.1		PWM	Motifs
+rs10908278	chr17:36099951	Prrx2		PWM	Motifs
+rs10908278	chr17:36099951	Oct-1		PWM	Motifs
+rs10908278	chr17:36099951	Foxl1		PWM	Motifs
+rs10908278	chr17:36099951	Pax-7		PWM	Motifs
+rs10908278	chr17:36099951	Barhl1		PWM	Motifs
+rs10908278	chr17:36099951	PRRX1		PWM	Motifs
+rs10908278	chr17:36099951	Msx1		PWM	Motifs
+rs10908278	chr17:36099951	PHOX2B		PWM	Motifs
+rs10908278	chr17:36099951	Uncx4.1		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa6		PWM	Motifs
+rs10908278	chr17:36099951	FOXD3		PWM	Motifs
+rs10908278	chr17:36099951	FOXL1		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa3		PWM	Motifs
+rs10908278	chr17:36099951	Lhx2		PWM	Motifs
+rs10908278	chr17:36099951	Otp		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa2		PWM	Motifs
+rs10908278	chr17:36099951	Hoxc6		PWM	Motifs
+rs10908278	chr17:36099951	Foxd3		PWM	Motifs
+rs10908278	chr17:36099951	Hoxd1		PWM	Motifs
+rs10908278	chr17:36099951	POU6F2		PWM	Motifs
+rs10908278	chr17:36099951	PHOX2A		PWM	Motifs
+rs10908278	chr17:36099951	POU3F1		PWM	Motifs
+rs10908278	chr17:36099951	Dbx2		PWM	Motifs
+rs10908278	chr17:36099951	MEOX2		PWM	Motifs
+rs10908278	chr17:36099951	Vsx1		PWM	Motifs
+rs10908278	chr17:36099951	Prrx1		PWM	Motifs
+rs10908278	chr17:36099951	Foxj3		PWM	Motifs
+rs10908278	chr17:36099951	S8		PWM	Motifs
+rs10908278	chr17:36099951	UNCX		PWM	Motifs
+rs10908278	chr17:36099951	Hoxd3		PWM	Motifs
+rs10908278	chr17:36099951	Pou1f1		PWM	Motifs
+rs10908278	chr17:36099951	ARX		PWM	Motifs
+rs10908278	chr17:36099951	Bsx		PWM	Motifs
+rs10908278	chr17:36099951	Lmx1b		PWM	Motifs
+rs10908278	chr17:36099951	Hoxb3		PWM	Motifs
+rs10908278	chr17:36099951	Phox2b		PWM	Motifs
+rs10908278	chr17:36099951	ONECUT3		PWM	Motifs
+rs10908278	chr17:36099951	Tlx2		PWM	Motifs
+rs10908278	chr17:36099951	Shox2		PWM	Motifs
+rs10908278	chr17:36099951	LH-2		PWM	Motifs
+rs10908278	chr17:36099951	ALX3		PWM	Motifs
+rs10908278	chr17:36099951	Rhox6		PWM	Motifs
+rs10908278	chr17:36099951	Prop1		PWM	Motifs
+rs10908278	chr17:36099951	Pou4f3		PWM	Motifs
+rs10908278	chr17:36099951	FOXO3A		PWM	Motifs
+rs10908278	chr17:36099951	FOXC2		PWM	Motifs
+rs10908278	chr17:36099951	Barx1		PWM	Motifs
+rs10908278	chr17:36099951	Phox2a		PWM	Motifs
+rs10908278	chr17:36099951	Msx3		PWM	Motifs
+rs10908278	chr17:36099951	Barhl2		PWM	Motifs
+rs10908278	chr17:36099951	Lhx9		PWM	Motifs
+rs10908278	chr17:36099951	ISX		PWM	Motifs
+rs10908278	chr17:36099951	ALX4		PWM	Motifs
+rs10908278	chr17:36099951	Ipf1		PWM	Motifs
+rs10908278	chr17:36099951	OTP		PWM	Motifs
+rs10908278	chr17:36099951	Hoxb5		PWM	Motifs
+rs10908278	chr17:36099951	Pou2f1		PWM	Motifs
+rs10908278	chr17:36099951	DRGX		PWM	Motifs
+rs10908278	chr17:36099951	Hoxb7		PWM	Motifs
+rs10908278	chr17:36099951	Lhx5		PWM	Motifs
+rs10908278	chr17:36099951	Pax7		PWM	Motifs
+rs10908278	chr17:36099951	FOXJ2		PWM	Motifs
+rs10908278	chr17:36099951	Lhx3		PWM	Motifs
+rs10908278	chr17:36099951	ALX1		PWM	Motifs
+rs10908278	chr17:36099951	Hoxd8		PWM	Motifs
+rs10908278	chr17:36099951	Esx1		PWM	Motifs
+rs10908278	chr17:36099951	CART1		PWM	Motifs
+rs10908278	chr17:36099951	Oct-6		PWM	Motifs
+rs10908278	chr17:36099951	En1		PWM	Motifs
+rs10908278	chr17:36099951	POU3F2		PWM	Motifs
+rs10908278	chr17:36099951	Lbx2		PWM	Motifs
+rs10908278	chr17:36099951	Pax4		PWM	Motifs
+rs10908278	chr17:36099951	Vax1		PWM	Motifs
+rs10908278	chr17:36099951	Isl2		PWM	Motifs
+rs10908278	chr17:36099951	Pou3f4		PWM	Motifs
+rs10908278	chr17:36099951	EMX1		PWM	Motifs
+rs10908278	chr17:36099951	Foxa2		PWM	Motifs
+rs10908278	chr17:36099951	Hoxc4		PWM	Motifs
+rs10908278	chr17:36099951	Pou3f1		PWM	Motifs
+rs10908278	chr17:36099951	HOXD3		PWM	Motifs
+rs10908278	chr17:36099951	Barx2		PWM	Motifs
+rs10908278	chr17:36099951	Hoxc5		PWM	Motifs
+rs10908278	chr17:36099951	HFH3(FOXI1)		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa4		PWM	Motifs
+rs10908278	chr17:36099951	Msx-3		PWM	Motifs
+rs10908278	chr17:36099951	Hoxa1		PWM	Motifs
+rs10908278	chr17:36099951	Oct-1	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	HFH3(FOXI1)	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Freac-7	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	FOXD3	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Cdx	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	POU3F2	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Oct-6	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	HOXC-8	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Lhx5	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Lhx3	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	HNF3	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	HFH4(FOXJ1)	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	FOXO3A	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Isl2	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	HFH8(FOXF1A)	Osteobl	Footprinting	Motifs
+rs10908278	chr17:36099951	Oct-6	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	POU3F2	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Prop-1	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Vsx1	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Pax-7	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Lhx3	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Isl2	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Lhx5	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	S8	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	HOXC-8	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Oct-1	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	OTP	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	Msx-3	Hsmm	Footprinting	Motifs
+rs10908278	chr17:36099951	HFH8(FOXF1A)	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	HFH3(FOXI1)	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	Cdx	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	Foxd3	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	Freac-7	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	HFH4(FOXJ1)	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	HNF3	A549	Footprinting	Motifs
+rs10908278	chr17:36099951	FOXO3A	A549	Footprinting	Motifs
+rs8064454	chr17:36101585	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs8064454	chr17:36101585	MEF2A	LncapAndro	Footprinting	Motifs
+rs8064454	chr17:36101585	MEF2A		PWM	Motifs
+rs8064454	chr17:36101585	MEF2A	Chorion	Footprinting	Motifs
+rs8064454	chr17:36101585	MEF2A	Hsmm	Footprinting	Motifs
+rs8064454	chr17:36101585	MEF2A	H1hesc	Footprinting	Motifs
+rs8064454	chr17:36101585	MEF2A	Myometr	Footprinting	Motifs
+rs8064454	chr17:36101585	MEF2A	Hepatocytes	Footprinting	Motifs
+rs8064454	chr17:36101585	MEF2A	Huh75	Footprinting	Motifs
+rs11263763	chr17:36103564	POLR2A	HepG2	ChIP-seq	NA	Protein_Binding
+rs11263763	chr17:36103564	MXI1	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	HDAC2	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	SIN3A	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	SP1	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	CEBPD	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	CHD2	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	MYC	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	TAF1	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	POLR2A	HepG2	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	SUZ12	H1-hESC	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	POLR2A	GM15510	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	HMEC	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	HSMM	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	CDX2	Caco2	ChIP-seq	NA	Protein_Binding
+rs11263763	chr17:36103564	POLR2A	GM19193	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	NHDF-Ad	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	POLR2A	A549	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	POLR2A	A549	ChIP-seq	NA	Protein_Binding
+rs11263763	chr17:36103564	TAF1	A549	ChIP-seq	NA	Protein_Binding
+rs11263763	chr17:36103564	POLR2A	A549	ChIP-seq	NA	Protein_Binding
+rs11263763	chr17:36103564	REST	A549	ChIP-seq	NA	Protein_Binding
+rs11263763	chr17:36103564	EZH2	NHLF	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	POLR2A	GM19099	ChIP-seq		Protein_Binding
+rs11263763	chr17:36103564	Gata6		PWM	Motifs
+rs2138740	chr17:36140824	HNF3beta		PWM	Motifs
+rs2138740	chr17:36140824	Srf		PWM	Motifs
+rs2138740	chr17:36140824	Zfp105		PWM	Motifs
+rs3760511	chr17:36106312	RFX3	K562	ChIP-seq		Protein_Binding
+rs3760511	chr17:36106312	POLR2A	GM12878	ChIP-seq		Protein_Binding
+rs12945081	chr17:36139422	BCL6B		PWM	Motifs
+rs11651755	chr17:36099839	EWSR1-FLI1		PWM	Motifs
+rs35273504	chr17:36140843	Srf		PWM	Motifs
+rs35273504	chr17:36140843	Nanog		PWM	Motifs
+rs35273504	chr17:36140843	FOXP1		PWM	Motifs
+rs35273504	chr17:36140843	IRF		PWM	Motifs
+rs35273504	chr17:36140843	Zfp105		PWM	Motifs
+rs35273504	chr17:36140843	Elf3		PWM	Motifs
+rs7405696	chr17:36102034	YY1	HepG2	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	TAF1	HepG2	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	REST	HepG2	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	CHD1	H1-hESC	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	SUZ12	H1-hESC	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	YY1	H1-hESC	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	SUZ12	NT2-D1	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	K562	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	POLR2A	GM18951	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	CDX2	Caco2	ChIP-seq	NA	Protein_Binding
+rs7405696	chr17:36102034	EZH2	NHDF-Ad	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	MXI1	GM12878	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	HeLa-S3	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	EZH2	NHLF	ChIP-seq		Protein_Binding
+rs7405696	chr17:36102034	YY1	A549	ChIP-seq	NA	Protein_Binding
+rs7405696	chr17:36102034	TAF1	A549	ChIP-seq	NA	Protein_Binding
+rs7405696	chr17:36102034	TCF12	A549	ChIP-seq	NA	Protein_Binding
+rs757209	chr17:36102832	POLR2A	HepG2	ChIP-seq	NA	Protein_Binding
+rs757209	chr17:36102832	FOXA1	HepG2	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	TAF1	HepG2	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	FOXA2	HepG2	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	POLR2A	HepG2	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	SUZ12	NT2-D1	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	POLR2A	GM18951	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	EZH2	HSMMtube	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	CDX2	Caco2	ChIP-seq	NA	Protein_Binding
+rs757209	chr17:36102832	EZH2	NHDF-Ad	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	POLR2A	GM18526	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	POLR2A	GM19099	ChIP-seq		Protein_Binding
+rs757209	chr17:36102832	Zfx	LncapAndro	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Lncap	Footprinting	Motifs
+rs757209	chr17:36102832	CNOT3		PWM	Motifs
+rs757209	chr17:36102832	RNF96		PWM	Motifs
+rs757209	chr17:36102832	Zfx		PWM	Motifs
+rs757209	chr17:36102832	Zfx	Cll	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Hsmmt	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Medullo	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Hepg2	Footprinting	Motifs
+rs757209	chr17:36102832	CNOT3	Gm19238	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Gm19238	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Gm19239	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Panislets	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Myometr	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Hepatocytes	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Panisd	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Huvec	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Mcf7	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	H1hesc	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Chorion	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Gm12878	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Huh75	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	H9es	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Osteobl	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Hsmm	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Gm12892	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Gm12891	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	8988t	Footprinting	Motifs
+rs757209	chr17:36102832	Zfx	Huh7	Footprinting	Motifs
+rs757209	chr17:36102832	CNOT3	Huh7	Footprinting	Motifs
+rs757209	chr17:36102832	CNOT3	A549	Footprinting	Motifs
+rs11263762	chr17:36101925	YY1	HepG2	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	REST	HepG2	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	SUZ12	NT2-D1	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	EZH2	K562	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	POLR2A	GM18951	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	CDX2	Caco2	ChIP-seq	NA	Protein_Binding
+rs11263762	chr17:36101925	EZH2	HeLa-S3	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs11263762	chr17:36101925	TAF1	A549	ChIP-seq	NA	Protein_Binding
+rs11263762	chr17:36101925	TCF12	A549	ChIP-seq	NA	Protein_Binding
+rs11263762	chr17:36101925	PPARdirectrepeat1	LncapAndro	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	Lncap	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1		PWM	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	Chorion	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	Myometr	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	Mcf7	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	H1hesc	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	Huh75	Footprinting	Motifs
+rs11263762	chr17:36101925	PPARdirectrepeat1	A549	Footprinting	Motifs
+rs4430796	chr17:36098039	CEBPB	HeLa-S3	ChIP-seq		Protein_Binding
+rs4430796	chr17:36098039	STAT3	MCF10A-Er-Src	ChIP-seq	NA	Protein_Binding
+rs4430796	chr17:36098039	STAT3	MCF10A-Er-Src	ChIP-seq	NA	Protein_Binding
+rs4430796	chr17:36098039	STAT3	MCF10A-Er-Src	ChIP-seq	NA	Protein_Binding
+rs4430796	chr17:36098039	STAT3	MCF10A-Er-Src	ChIP-seq	NA	Protein_Binding
+rs4430796	chr17:36098039	FOSL2	A549	ChIP-seq	NA	Protein_Binding
+rs2522964	chr17:35809214	Sp1		PWM	Motifs
+rs2138739	chr17:36140518	RFX3	K562	ChIP-seq		Protein_Binding
+rs2138739	chr17:36140518	Zec		PWM	Motifs
+rs12601991	chr17:36101632	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs12601991	chr17:36101632	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs12601991	chr17:36101632	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs12601991	chr17:36101632	PROX1		PWM	Motifs
+rs9901746	chr17:36103148	MAX	HepG2	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	CDX2	Caco2	ChIP-seq	NA	Protein_Binding
+rs9901746	chr17:36103148	EZH2	NHDF-Ad	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	EZH2	NHLF	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	MAX	A549	ChIP-seq		Protein_Binding
+rs9901746	chr17:36103148	Ikaros	LncapAndro	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Lncap	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros		PWM	Motifs
+rs9901746	chr17:36103148	AP-2		PWM	Motifs
+rs9901746	chr17:36103148	Ikaros	Nhek	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Medullo	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Helas3	Footprinting	Motifs
+rs9901746	chr17:36103148	AP-2	Hepg2	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Hepg2	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Gm19238	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Gm19239	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Panislets	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	K562	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Gm18507	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Myometr	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Fibrobl	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Panisd	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Huvec	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Hmec	Footprinting	Motifs
+rs9901746	chr17:36103148	AP-2	H1hesc	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	H1hesc	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Chorion	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Phte	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Fibrop	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Huh75	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	H9es	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Osteobl	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Hsmm	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Melano	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Gliobla	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Gm12892	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	Gm12891	Footprinting	Motifs
+rs9901746	chr17:36103148	Ikaros	8988t	Footprinting	Motifs
+rs11651052	chr17:36102380	CTBP2	H1-hESC	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	H1-hESC	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	CHD1	H1-hESC	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	NH-A	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	NHEK	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	SUZ12	NT2-D1	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	HMEC	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	HSMM	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	NHDF-Ad	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	HSMMtube	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	MXI1	GM12878	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	GM12878	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	EZH2	NHLF	ChIP-seq		Protein_Binding
+rs11651052	chr17:36102380	VDR		PWM	Motifs
