@@ -1,0 +1,52 @@
+rs2012906	chr22:39761244	CTCF	SAEC	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	RAD21	HepG2	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HepG2	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	AG04449	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HPAF	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	AoAF	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	BJ	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	WERI-Rb-1	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HFF	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	Fibrobl	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HA-sp	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	ProgFib	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	NHLF	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HFF-Myc	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HSMM	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	AG10803	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	Gliobla	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	AG09319	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HPF	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	NHDF-Ad	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	NHEK	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	T-47D	ChIP-seq	NA	Protein_Binding
+rs2012906	chr22:39761244	CTCF	Osteobl	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF	HSMMtube	ChIP-seq		Protein_Binding
+rs2012906	chr22:39761244	CTCF		PWM	Motifs
+rs150210284	chr22:39595105	SETDB1	U2OS	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	SAEC	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	RAD21	HepG2	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HepG2	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	AG04449	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HPAF	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	AoAF	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	BJ	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	WERI-Rb-1	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HFF	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	Fibrobl	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HA-sp	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	ProgFib	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	NHLF	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HFF-Myc	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HSMM	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	AG10803	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	Gliobla	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	AG09319	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HPF	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	NHDF-Ad	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	NHEK	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	T-47D	ChIP-seq	NA	Protein_Binding
+rs2012907	chr22:39761254	CTCF	Osteobl	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF	HSMMtube	ChIP-seq		Protein_Binding
+rs2012907	chr22:39761254	CTCF		PWM	Motifs
+rs739363	chr22:39760882	FOXP1		PWM	Motifs

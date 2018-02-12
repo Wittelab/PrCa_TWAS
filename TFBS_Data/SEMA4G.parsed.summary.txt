@@ -1,0 +1,10 @@
+rs2495710
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs58593290
+	Prostate TFs : []
+	Other TFs    : ["EZH2 (3) : ['NHLF:ChIP-seq', 'HUVEC:ChIP-seq', 'GM12878:ChIP-seq']", "CREBBP (1) : ['Jurkat:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["BLIMP1 (15) : ['Cll:Footprinting', ':PWM', 'Chorion:Footprinting', 'H9es:Footprinting', 'Osteobl:Footprinting', 'Hsmmt:Footprinting', 'Hsmm:Footprinting', 'H1hesc:Footprinting', 'Myometr:Footprinting', 'Gliobla:Footprinting', 'Gm12892:Footprinting', 'Gm12891:Footprinting', 'Panisd:Footprinting', 'Gm19239:Footprinting', 'Huh75:Footprinting']", "EWSR1-FLI1 (5) : [':PWM', 'Chorion:Footprinting', 'Gm12892:Footprinting', 'Gm12891:Footprinting', 'Huh7:Footprinting']"]

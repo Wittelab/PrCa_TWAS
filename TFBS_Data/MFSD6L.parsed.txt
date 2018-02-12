@@ -1,0 +1,35 @@
+rs181538	chr17:8818146	Foxk1		PWM	Motifs
+rs181538	chr17:8818146	Foxj1		PWM	Motifs
+rs181540	chr17:8818915	JUND	HepG2	ChIP-seq		Protein_Binding
+rs181540	chr17:8818915	POLR2A	GM12878	ChIP-seq		Protein_Binding
+rs181540	chr17:8818915	YY1	GM12878	ChIP-seq		Protein_Binding
+rs181540	chr17:8818915	POU2F2	GM12891	ChIP-seq		Protein_Binding
+rs181542	chr17:8819812	SP4		PWM	Motifs
+rs181542	chr17:8819812	ZNF219		PWM	Motifs
+rs181542	chr17:8819812	Egr1		PWM	Motifs
+rs181542	chr17:8819812	UF1H3BETA		PWM	Motifs
+rs181542	chr17:8819812	Egr-1		PWM	Motifs
+rs181542	chr17:8819812	EGR1		PWM	Motifs
+rs181542	chr17:8819812	EGR3		PWM	Motifs
+rs181542	chr17:8819812	KROX		PWM	Motifs
+rs181542	chr17:8819812	Egr		PWM	Motifs
+rs181542	chr17:8819812	SP1		PWM	Motifs
+rs181542	chr17:8819812	NGFI-C		PWM	Motifs
+rs181542	chr17:8819812	Sp1		PWM	Motifs
+rs181542	chr17:8819812	SP1:SP3		PWM	Motifs
+rs181542	chr17:8819812	SP1:SP3	H1hesc	Footprinting	Motifs
+rs181542	chr17:8819812	ZNF219	8988t	Footprinting	Motifs
+rs181542	chr17:8819812	ZNF219	Gm12892	Footprinting	Motifs
+rs181542	chr17:8819812	ZNF219	Cll	Footprinting	Motifs
+rs181543	chr17:8822200	XBP1		PWM	Motifs
+rs181543	chr17:8822200	HTF		PWM	Motifs
+rs181543	chr17:8822200	T3R		PWM	Motifs
+rs181543	chr17:8822200	T3R	Cll	Footprinting	Motifs
+rs181543	chr17:8822200	T3R	Huvec	Footprinting	Motifs
+rs181543	chr17:8822200	HTF	Huvec	Footprinting	Motifs
+rs181543	chr17:8822200	T3R	Gm12878	Footprinting	Motifs
+rs181543	chr17:8822200	T3R	Panisd	Footprinting	Motifs
+rs181543	chr17:8822200	HTF	Panisd	Footprinting	Motifs
+rs181543	chr17:8822200	HTF	8988t	Footprinting	Motifs
+rs181543	chr17:8822200	T3R	8988t	Footprinting	Motifs
+rs181543	chr17:8822200	T3R	Htr8	Footprinting	Motifs

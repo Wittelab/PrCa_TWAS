@@ -1,0 +1,35 @@
+rs269783
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["GATA-4 (1) : [':PWM']"]
+rs116774392
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["ZFP652 (1) : [':PWM']", "LEF1 (1) : [':PWM']"]
+rs11574651
+	Prostate TFs : []
+	Other TFs    : ["STAT3 (1) : ['MCF10A-Er-Src:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs148074195
+	Prostate TFs : []
+	Other TFs    : ["ZNF263 (1) : ['HEK293-T-REx:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : [" (5) : ['NHEK:Footprinting', 'H1_ES:Footprinting', 'GM12892:Footprinting', 'GM12891:Footprinting', 'HelaS3:Footprinting']", "POU1F1 (1) : [':PWM']"]
+rs183869
+	Prostate TFs : []
+	Other TFs    : ["USF1 (1) : ['HepG2:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs11746609
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["AIRE (1) : [':PWM']"]
+rs13179861
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []

@@ -1,0 +1,25 @@
+rs2012906
+	Prostate TFs : []
+	Other TFs    : ["CTCF (23) : ['SAEC:ChIP-seq', 'HepG2:ChIP-seq', 'AG04449:ChIP-seq', 'HPAF:ChIP-seq', 'AoAF:ChIP-seq', 'BJ:ChIP-seq', 'WERI-Rb-1:ChIP-seq', 'HFF:ChIP-seq', 'Fibrobl:ChIP-seq', 'HA-sp:ChIP-seq', 'ProgFib:ChIP-seq', 'NHLF:ChIP-seq', 'HFF-Myc:ChIP-seq', 'HSMM:ChIP-seq', 'AG10803:ChIP-seq', 'Gliobla:ChIP-seq', 'AG09319:ChIP-seq', 'HPF:ChIP-seq', 'NHDF-Ad:ChIP-seq', 'NHEK:ChIP-seq', 'T-47D:ChIP-seq', 'Osteobl:ChIP-seq', 'HSMMtube:ChIP-seq']", "RAD21 (1) : ['HepG2:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["CTCF (1) : [':PWM']"]
+rs150210284
+	Prostate TFs : []
+	Other TFs    : ["SETDB1 (1) : ['U2OS:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs6001559
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs2012907
+	Prostate TFs : []
+	Other TFs    : ["CTCF (23) : ['SAEC:ChIP-seq', 'HepG2:ChIP-seq', 'AG04449:ChIP-seq', 'HPAF:ChIP-seq', 'AoAF:ChIP-seq', 'BJ:ChIP-seq', 'WERI-Rb-1:ChIP-seq', 'HFF:ChIP-seq', 'Fibrobl:ChIP-seq', 'HA-sp:ChIP-seq', 'ProgFib:ChIP-seq', 'NHLF:ChIP-seq', 'HFF-Myc:ChIP-seq', 'HSMM:ChIP-seq', 'AG10803:ChIP-seq', 'Gliobla:ChIP-seq', 'AG09319:ChIP-seq', 'HPF:ChIP-seq', 'NHDF-Ad:ChIP-seq', 'NHEK:ChIP-seq', 'T-47D:ChIP-seq', 'Osteobl:ChIP-seq', 'HSMMtube:ChIP-seq']", "RAD21 (1) : ['HepG2:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["CTCF (1) : [':PWM']"]
+rs739363
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["FOXP1 (1) : [':PWM']"]

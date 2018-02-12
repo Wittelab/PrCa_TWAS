@@ -1,0 +1,24 @@
+rs58593290	chr10:102414194	EZH2	NHLF	ChIP-seq		Protein_Binding
+rs58593290	chr10:102414194	EZH2	HUVEC	ChIP-seq		Protein_Binding
+rs58593290	chr10:102414194	EZH2	GM12878	ChIP-seq		Protein_Binding
+rs58593290	chr10:102414194	CREBBP	Jurkat	ChIP-seq		Protein_Binding
+rs58593290	chr10:102414194	BLIMP1	Cll	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1		PWM	Motifs
+rs58593290	chr10:102414194	EWSR1-FLI1		PWM	Motifs
+rs58593290	chr10:102414194	BLIMP1	Chorion	Footprinting	Motifs
+rs58593290	chr10:102414194	EWSR1-FLI1	Chorion	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	H9es	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Osteobl	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Hsmmt	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Hsmm	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	H1hesc	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Myometr	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Gliobla	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Gm12892	Footprinting	Motifs
+rs58593290	chr10:102414194	EWSR1-FLI1	Gm12892	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Gm12891	Footprinting	Motifs
+rs58593290	chr10:102414194	EWSR1-FLI1	Gm12891	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Panisd	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Gm19239	Footprinting	Motifs
+rs58593290	chr10:102414194	BLIMP1	Huh75	Footprinting	Motifs
+rs58593290	chr10:102414194	EWSR1-FLI1	Huh7	Footprinting	Motifs

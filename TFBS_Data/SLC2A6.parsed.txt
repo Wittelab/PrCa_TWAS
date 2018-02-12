@@ -1,0 +1,78 @@
+rs10119210	chr9:135853101	CTCF	SAEC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MXI1	HepG2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	RCOR1	HepG2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HepG2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	YY1	HepG2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	SMC3	HepG2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MAZ	HepG2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HUVEC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	WI-38	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HPAF	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	CD34	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	HNF4A	Caco2	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	CTCF	BJ	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HEK293	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	Dnd41	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	RPTEC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	SK-N-SH	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	JUND	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MYC	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MYC	K562	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	SMC3	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	UBTF	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MAX	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	RCOR1	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	YY1	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	BHLHE40	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CBX3	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	E2F6	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	EP300	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	ZNF143	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MYC	K562	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	CTCF	K562	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HCPEpiC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	RAD21	IMR90	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HSMMtube	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	ZNF143	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	RAD21	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MAZ	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	YY1	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	SMC3	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	TCF12	GM12878	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HVMF	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HL-60	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	NHLF	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	GM12873	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	GM12872	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HFF-Myc	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	GM06990	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MYC	MCF-7	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	MYC	MCF-7	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	CTCF	MCF-7	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	CTCF	HBMEC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MYC	NB4	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	NB4	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	BE2	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HRE	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	AG09319	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HCM	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	RAD21	H1-hESC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	ZNF143	H1-hESC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	YY1	H1-hESC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	SIN3A	H1-hESC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	NHEK	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	Osteobl	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HMEC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HAc	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	POLR2A	SK-N-MC	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	SMC3	HeLa-S3	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	RCOR1	HeLa-S3	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	ZNF143	HeLa-S3	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MAZ	HeLa-S3	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	MYC	HeLa-S3	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	HeLa-S3	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	ZNF263	HEK293-T-REx	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	ECC-1	ChIP-seq	NA	Protein_Binding
+rs10119210	chr9:135853101	CTCF	GM12864	ChIP-seq		Protein_Binding
+rs10119210	chr9:135853101	CTCF	A549	ChIP-seq		Protein_Binding
