@@ -1,0 +1,35 @@
+rs7199251
+	Prostate TFs : []
+	Other TFs    : ["SRF (1) : ['GM12878:ChIP-seq']"]
+	Prostate Motifs : ["SMAD4 (1) : ['Lncap:Footprinting']"]
+	Other Motifs    : ["SMAD4 (4) : [':PWM', 'Chorion:Footprinting', 'Hsmm:Footprinting', 'H1hesc:Footprinting']", " (1) : ['GM12891:Footprinting']"]
+rs34610373
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs34244471
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Tcf7 (1) : [':PWM']"]
+rs8063711
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs71386677
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs4238843
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs1005273
+	Prostate TFs : []
+	Other TFs    : ["MAX (1) : ['NB4:ChIP-seq']", "EGR1 (1) : ['GM12878:ChIP-seq']", "RUNX3 (1) : ['GM12878:ChIP-seq']", "EBF1 (1) : ['GM12878:ChIP-seq']", "MYC (1) : ['NB4:ChIP-seq']", "IKZF1 (1) : ['HSPC:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []

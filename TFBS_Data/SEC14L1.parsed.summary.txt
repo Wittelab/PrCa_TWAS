@@ -1,0 +1,310 @@
+rs3817357
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs117812440
+	Prostate TFs : ["AR (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : ["TAL1 (1) : ['K562:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["Bbx (1) : [':PWM']"]
+rs111670764
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs3744062
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs485018
+	Prostate TFs : []
+	Other TFs    : ["MAX (1) : ['HUVEC:ChIP-seq']", "JUN (1) : ['HUVEC:ChIP-seq']", "POLR2A (1) : ['HUVEC:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs201158159
+	Prostate TFs : []
+	Other TFs    : ["CTCF (49) : ['SAEC:ChIP-seq', 'GM19238:ChIP-seq', 'GM19239:ChIP-seq', 'HUVEC:ChIP-seq', 'WI-38:ChIP-seq', 'AG04449:ChIP-seq', 'HPAF:ChIP-seq', 'CD34:ChIP-seq', 'AG09309:ChIP-seq', 'WERI-Rb-1:ChIP-seq', 'HFF-Myc:ChIP-seq', 'Dnd41:ChIP-seq', 'SK-N-SH:ChIP-seq', 'HSMMtube:ChIP-seq', 'K562:ChIP-seq', 'HCPEpiC:ChIP-seq', 'HSMM:ChIP-seq', 'IMR90:ChIP-seq', 'Caco-2:ChIP-seq', 'Fibrobl:ChIP-seq', 'GM12878:ChIP-seq', 'HMF:ChIP-seq', 'HFF:ChIP-seq', 'NHLF:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'HBMEC:ChIP-seq', 'NB4:ChIP-seq', 'NHDF-Ad:ChIP-seq', 'Gliobla:ChIP-seq', 'GM12892:ChIP-seq', 'HRE:ChIP-seq', 'AG09319:ChIP-seq', 'H1-hESC:ChIP-seq', 'NH-A:ChIP-seq', 'NHEK:ChIP-seq', 'T-47D:ChIP-seq', 'Osteobl:ChIP-seq', 'HCT-116:ChIP-seq', 'BJ:ChIP-seq', 'HEEpiC:ChIP-seq', 'HMEC:ChIP-seq', 'HeLa-S3:ChIP-seq', 'HEK293:ChIP-seq', 'A549:ChIP-seq', 'A549:ChIP-seq', 'A549:ChIP-seq']", "POLR2A (40) : ['HepG2:ChIP-seq', 'HepG2:ChIP-seq', 'HUVEC:ChIP-seq', 'MCF10A-Er-Src:ChIP-seq', 'MCF10A-Er-Src:ChIP-seq', 'GM18505:ChIP-seq', 'PANC-1:ChIP-seq', 'GM10847:ChIP-seq', 'SK-N-SH:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'IMR90:ChIP-seq', 'GM19193:ChIP-seq', 'GM12878:ChIP-seq', 'PBDE:ChIP-seq', 'ProgFib:ChIP-seq', 'GM19099:ChIP-seq', 'GM15510:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'NB4:ChIP-seq', 'Gliobla:ChIP-seq', 'GM12892:ChIP-seq', 'GM12891:ChIP-seq', 'Raji:ChIP-seq', 'U87:ChIP-seq', 'H1-hESC:ChIP-seq', 'SK-N-MC:ChIP-seq', 'GM18951:ChIP-seq', 'HCT-116:ChIP-seq', 'GM18526:ChIP-seq', 'HeLa-S3:ChIP-seq', 'HEK293:ChIP-seq', 'ECC-1:ChIP-seq', 'A549:ChIP-seq', 'A549:ChIP-seq']", "MYC (10) : ['MCF10A-Er-Src:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'K562:ChIP-seq', 'GM12878:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'H1-hESC:ChIP-seq', 'HeLa-S3:ChIP-seq']", "NFKB1 (10) : ['GM18505:ChIP-seq', 'GM10847:ChIP-seq', 'GM19193:ChIP-seq', 'GM12878:ChIP-seq', 'GM19099:ChIP-seq', 'GM15510:ChIP-seq', 'GM12892:ChIP-seq', 'GM12891:ChIP-seq', 'GM18951:ChIP-seq', 'GM18526:ChIP-seq']", "YY1 (9) : ['HepG2:ChIP-seq', 'SK-N-SH:ChIP-seq', 'K562:ChIP-seq', 'GM12878:ChIP-seq', 'GM12892:ChIP-seq', 'GM12891:ChIP-seq', 'H1-hESC:ChIP-seq', 'HCT-116:ChIP-seq', 'A549:ChIP-seq']", "TAF1 (8) : ['HepG2:ChIP-seq', 'PFSK-1:ChIP-seq', 'SK-N-SH:ChIP-seq', 'K562:ChIP-seq', 'GM12891:ChIP-seq', 'H1-hESC:ChIP-seq', 'HeLa-S3:ChIP-seq', 'A549:ChIP-seq']", "RAD21 (8) : ['HepG2:ChIP-seq', 'SK-N-SH:ChIP-seq', 'K562:ChIP-seq', 'IMR90:ChIP-seq', 'GM12878:ChIP-seq', 'H1-hESC:ChIP-seq', 'HeLa-S3:ChIP-seq', 'A549:ChIP-seq']", "SIN3A (7) : ['HepG2:ChIP-seq', 'PANC-1:ChIP-seq', 'SK-N-SH:ChIP-seq', 'K562:ChIP-seq', 'GM12878:ChIP-seq', 'H1-hESC:ChIP-seq', 'A549:ChIP-seq']", "FOS (6) : ['HUVEC:ChIP-seq', 'MCF10A-Er-Src:ChIP-seq', 'MCF10A-Er-Src:ChIP-seq', 'MCF10A-Er-Src:ChIP-seq', 'MCF10A-Er-Src:ChIP-seq', 'K562:ChIP-seq']", "REST (6) : ['HepG2:ChIP-seq', 'SK-N-SH:ChIP-seq', 'K562:ChIP-seq', 'GM12878:ChIP-seq', 'U87:ChIP-seq', 'A549:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs117139262
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs55750119
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs149508879
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs11870738
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs80258688
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs17611415
+	Prostate TFs : []
+	Other TFs    : ["JUN (1) : ['HUVEC:ChIP-seq']", "JUND (1) : ['HepG2:ChIP-seq']", "RFX3 (1) : ['K562:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs151224978
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs113211264
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs666688
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs55784462
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["HES7 (1) : [':PWM']"]
+rs663400
+	Prostate TFs : []
+	Other TFs    : ["FOXA1 (1) : ['T-47D:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["AP-2 (1) : [':PWM']"]
+rs678124
+	Prostate TFs : []
+	Other TFs    : ["FOXA1 (1) : ['T-47D:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs9914698
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["MEF-2 (1) : [':PWM']", "aMEF-2 (1) : [':PWM']", "Elf3 (1) : [':PWM']", "Srf (1) : [':PWM']"]
+rs2585851
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["NERF1a (1) : [':PWM']", "EHF (1) : [':PWM']", "c-Ets-1 (1) : [':PWM']", "ELF3 (1) : [':PWM']", "ELF5 (1) : [':PWM']", "ELF4 (1) : [':PWM']", "Tel-2 (1) : [':PWM']"]
+rs79211382
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs80095505
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : ["EBF1 (1) : ['Lncap:Footprinting']"]
+	Other Motifs    : ["EBF1 (4) : [':PWM', 'H1hesc:Footprinting', 'Chorion:Footprinting', 'Gm12892:Footprinting']", "DEAF1 (2) : [':PWM', 'H1hesc:Footprinting']", "Elf2 (1) : [':PWM']", "Elf4 (1) : [':PWM']"]
+rs78911689
+	Prostate TFs : []
+	Other TFs    : ["NR3C1 (1) : ['A549:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs79707092
+	Prostate TFs : []
+	Other TFs    : ["CTCF (62) : ['SAEC:ChIP-seq', 'HepG2:ChIP-seq', 'HUVEC:ChIP-seq', 'WI-38:ChIP-seq', 'AG04449:ChIP-seq', 'HCFaa:ChIP-seq', 'HPAF:ChIP-seq', 'CD34:ChIP-seq', 'AoAF:ChIP-seq', 'BJ:ChIP-seq', 'HEK293:ChIP-seq', 'HPF:ChIP-seq', 'WERI-Rb-1:ChIP-seq', 'BE2:ChIP-seq', 'HRPEpiC:ChIP-seq', 'Dnd41:ChIP-seq', 'RPTEC:ChIP-seq', 'K562:ChIP-seq', 'HCPEpiC:ChIP-seq', 'Osteobl:ChIP-seq', 'IMR90:ChIP-seq', 'NHDF-neo:ChIP-seq', 'Caco-2:ChIP-seq', 'GM12878:ChIP-seq', 'HA-sp:ChIP-seq', 'HVMF:ChIP-seq', 'GM12875:ChIP-seq', 'HL-60:ChIP-seq', 'NHLF:ChIP-seq', 'GM12873:ChIP-seq', 'GM12872:ChIP-seq', 'NHDF-Ad:ChIP-seq', 'HFF-Myc:ChIP-seq', 'GM06990:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'AG04450:ChIP-seq', 'HSMM:ChIP-seq', 'GM12801:ChIP-seq', 'AG10803:ChIP-seq', 'AG09309:ChIP-seq', 'Gliobla:ChIP-seq', 'HRE:ChIP-seq', 'AG09319:ChIP-seq', 'NB4:ChIP-seq', 'HMF:ChIP-seq', 'HCM:ChIP-seq', 'H1-hESC:ChIP-seq', 'NH-A:ChIP-seq', 'NHEK:ChIP-seq', 'T-47D:ChIP-seq', 'HMEC:ChIP-seq', 'HAc:ChIP-seq', 'HSMMtube:ChIP-seq', 'HEEpiC:ChIP-seq', 'HeLa-S3:ChIP-seq', 'ECC-1:ChIP-seq', 'GM12864:ChIP-seq', 'A549:ChIP-seq', 'A549:ChIP-seq', 'A549:ChIP-seq']", "RAD21 (7) : ['HepG2:ChIP-seq', 'SK-N-SH:ChIP-seq', 'IMR90:ChIP-seq', 'GM12878:ChIP-seq', 'H1-hESC:ChIP-seq', 'HeLa-S3:ChIP-seq', 'A549:ChIP-seq']", "SMC3 (4) : ['HepG2:ChIP-seq', 'K562:ChIP-seq', 'GM12878:ChIP-seq', 'HeLa-S3:ChIP-seq']", "ZNF143 (2) : ['K562:ChIP-seq', 'GM12878:ChIP-seq']", "CEBPB (1) : ['HeLa-S3:ChIP-seq']", "MAZ (1) : ['K562:ChIP-seq']", "JUND (1) : ['K562:ChIP-seq']", "RUNX3 (1) : ['GM12878:ChIP-seq']", "MBD4 (1) : ['HepG2:ChIP-seq']", "MEF2A (1) : ['GM12878:ChIP-seq']"]
+	Prostate Motifs : ["GR (1) : ['LncapAndro:Footprinting']", "RREB-1 (1) : ['LncapAndro:Footprinting']"]
+	Other Motifs    : ["GR (22) : [':PWM', 'AosmcSerumfree:Footprinting', 'Chorion:Footprinting', 'Hpde6e6e7:Footprinting', 'Gm18507:Footprinting', 'Fibrobl:Footprinting', 'Panisd:Footprinting', 'Gm12878:Footprinting', 'Huvec:Footprinting', 'Mcf7:Footprinting', 'Gliobla:Footprinting', 'Phte:Footprinting', 'Fibrop:Footprinting', 'Htr8:Footprinting', 'Osteobl:Footprinting', 'Melano:Footprinting', 'Gm12891:Footprinting', 'Mcf7Hypoxlac:Footprinting', '8988t:Footprinting', 'Gm19239:Footprinting', 'Huh7:Footprinting', 'A549:Footprinting']", "RREB-1 (10) : [':PWM', 'AosmcSerumfree:Footprinting', 'Gm18507:Footprinting', 'Gm12878:Footprinting', 'Mcf7:Footprinting', 'Fibrop:Footprinting', 'Htr8:Footprinting', 'Melano:Footprinting', 'Mcf7Hypoxlac:Footprinting', 'Huh7:Footprinting']", " (1) : ['SkMC:Footprinting']", "Nanog (1) : [':PWM']", "E2F3 (1) : [':PWM']"]
+rs678624
+	Prostate TFs : []
+	Other TFs    : ["FOXA1 (1) : ['T-47D:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs145632936
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs147749396
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs11077897
+	Prostate TFs : []
+	Other TFs    : ["ZNF143 (1) : ['K562:ChIP-seq']", "CTCF (1) : ['Gliobla:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs55737620
+	Prostate TFs : []
+	Other TFs    : ["YY1 (3) : ['HCT-116:ChIP-seq', 'GM12892:ChIP-seq', 'GM12878:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["SPIC (1) : [':PWM']", "Zfp410 (1) : [':PWM']"]
+rs1254793
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["LUN-1 (1) : [':PWM']"]
+rs1662355
+	Prostate TFs : []
+	Other TFs    : ["MAX (1) : ['HeLa-S3:ChIP-seq']", "SMC3 (1) : ['HeLa-S3:ChIP-seq']", "MYC (1) : ['MCF-7:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["Zic3 (1) : [':PWM']"]
+rs117883614
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs8070652
+	Prostate TFs : []
+	Other TFs    : ["EP300 (1) : ['SK-N-SH:ChIP-seq']", "TCF7L2 (1) : ['HEK293:ChIP-seq']"]
+	Prostate Motifs : ["MEF-2 (1) : ['LncapAndro:Footprinting']"]
+	Other Motifs    : ["MEF-2 (1) : [':PWM']", "Oct-1 (1) : [':PWM']"]
+rs145875070
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["ZNF524 (1) : [':PWM']"]
+rs75457965
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs117923803
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs79802877
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TEF (5) : [':PWM', 'Hepg2:Footprinting', 'Gliobla:Footprinting', 'Gm12892:Footprinting', 'Huh7:Footprinting']"]
+rs56360290
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["MEF-2 (3) : [':PWM', '8988t:Footprinting', 'Gliobla:Footprinting']"]
+rs695124
+	Prostate TFs : []
+	Other TFs    : ["HNF4A (2) : ['HepG2:ChIP-seq', 'Caco2:ChIP-seq']", "NFIC (1) : ['HepG2:ChIP-seq']", "HDAC2 (1) : ['HepG2:ChIP-seq']", "SP1 (1) : ['HepG2:ChIP-seq']", "FOXA1 (1) : ['HepG2:ChIP-seq']", "EP300 (1) : ['HepG2:ChIP-seq']", "MYBL2 (1) : ['HepG2:ChIP-seq']", "TEAD4 (1) : ['HepG2:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs500416
+	Prostate TFs : []
+	Other TFs    : ["NFIC (1) : ['HepG2:ChIP-seq']", "ZNF143 (1) : ['K562:ChIP-seq']", "SIX5 (1) : ['A549:ChIP-seq']", "REST (1) : ['A549:ChIP-seq']", "POLR2A (1) : ['HUVEC:ChIP-seq']", "ATF3 (1) : ['A549:ChIP-seq']", "ZBTB33 (1) : ['A549:ChIP-seq']", "MYBL2 (1) : ['HepG2:ChIP-seq']", "BCL3 (1) : ['A549:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["MYBL1 (1) : [':PWM']"]
+rs117838471
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs56159785
+	Prostate TFs : []
+	Other TFs    : ["STAT1 (1) : ['HeLa-S3:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs7406502
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TCF11:MafG (1) : [':PWM']", "NFE2L2 (1) : [':PWM']"]
+rs117430551
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs79972381
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs672048
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["HIC2 (1) : [':PWM']"]
+rs11658050
+	Prostate TFs : []
+	Other TFs    : ["POLR2A (1) : ['HUVEC:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs66940972
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs117380308
+	Prostate TFs : ["AR (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : ["TAL1 (1) : ['K562:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs143469597
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs201843197
+	Prostate TFs : []
+	Other TFs    : ["CTCF (14) : ['HepG2:ChIP-seq', 'H1-hESC:ChIP-seq', 'A549:ChIP-seq', 'WI-38:ChIP-seq', 'Osteobl:ChIP-seq', 'K562:ChIP-seq', 'HMEC:ChIP-seq', 'HEEpiC:ChIP-seq', 'HeLa-S3:ChIP-seq', 'HL-60:ChIP-seq', 'WERI-Rb-1:ChIP-seq', 'NHLF:ChIP-seq', 'AG09309:ChIP-seq', 'HFF-Myc:ChIP-seq']", "SMC3 (3) : ['HepG2:ChIP-seq', 'K562:ChIP-seq', 'GM12878:ChIP-seq']", "ZNF143 (2) : ['K562:ChIP-seq', 'GM12878:ChIP-seq']", "CEBPB (1) : ['HeLa-S3:ChIP-seq']", "RUNX3 (1) : ['GM12878:ChIP-seq']", "MAZ (1) : ['K562:ChIP-seq']", "JUND (1) : ['K562:ChIP-seq']", "MBD4 (1) : ['HepG2:ChIP-seq']", "POLR2A (1) : ['HUVEC:ChIP-seq']", "ATF2 (1) : ['GM12878:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs9911641
+	Prostate TFs : []
+	Other TFs    : ["CTCF (20) : ['HepG2:ChIP-seq', 'H1-hESC:ChIP-seq', 'RPTEC:ChIP-seq', 'NHEK:ChIP-seq', 'GM06990:ChIP-seq', 'HMEC:ChIP-seq', 'GM19238:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'MCF-7:ChIP-seq', 'HCT-116:ChIP-seq', 'Gliobla:ChIP-seq', 'GM12878:ChIP-seq', 'GM12891:ChIP-seq', 'T-47D:ChIP-seq', 'GM12892:ChIP-seq', 'A549:ChIP-seq', 'A549:ChIP-seq']", "USF1 (4) : ['HepG2:ChIP-seq', 'H1-hESC:ChIP-seq', 'SK-N-SH:ChIP-seq', 'A549:ChIP-seq']", "RAD21 (3) : ['H1-hESC:ChIP-seq', 'SK-N-SH:ChIP-seq', 'GM12878:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs76088609
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs9898576
+	Prostate TFs : []
+	Other TFs    : ["ELF1 (1) : ['HepG2:ChIP-seq']", "USF1 (1) : ['H1-hESC:ChIP-seq']", "TAL1 (1) : ['pro-Erythroblast:ChIP-seq']", "GATA1 (1) : ['PBDE:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs117467863
+	Prostate TFs : []
+	Other TFs    : ["NR3C1 (1) : ['A549:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["UF1H3BETA (2) : [':PWM', 'Huh7:Footprinting']", "Egr (1) : [':PWM']", "Zfp281 (1) : [':PWM']", "KROX (1) : [':PWM']"]
+rs56104139
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["E2F (1) : [':PWM']"]
+rs35230665
+	Prostate TFs : []
+	Other TFs    : ["CTCF (1) : ['A549:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["IRF (9) : [':PWM', 'Hepg2:Footprinting', 'Chorion:Footprinting', 'H1hesc:Footprinting', 'Medullo:Footprinting', 'Gm12892:Footprinting', 'Gm12891:Footprinting', '8988t:Footprinting', 'Helas3:Footprinting']"]
+rs145040806
+	Prostate TFs : []
+	Other TFs    : ["ELF1 (1) : ['Jurkat:ChIP-seq']", "SMARCC1 (1) : ['HeLa-S3:ChIP-seq']", "IKZF1 (1) : ['HSPC:ChIP-seq']", "GATA1 (1) : ['CD36:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs148509079
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["MEF-2 (1) : [':PWM']"]
+rs55703722
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["MYC::MAX (1) : [':PWM']"]
+rs11077889
+	Prostate TFs : []
+	Other TFs    : ["MAX (1) : ['HeLa-S3:ChIP-seq']", "MYC (1) : ['MCF-7:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs117431912
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["RREB1 (1) : [':PWM']"]

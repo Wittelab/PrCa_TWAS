@@ -1,0 +1,19 @@
+rs60831555	chr17:77176134	AP-4	Lncap	Footprinting	Motifs
+rs60831555	chr17:77176134	AP-4		PWM	Motifs
+rs60831555	chr17:77176134	NeuroD		PWM	Motifs
+rs60831555	chr17:77176134	NeuroD	Chorion	Footprinting	Motifs
+rs60831555	chr17:77176134	AP-4	Chorion	Footprinting	Motifs
+rs60831555	chr17:77176134	AP-4	H1hesc	Footprinting	Motifs
+rs60831555	chr17:77176134	AP-4	Myometr	Footprinting	Motifs
+rs60831555	chr17:77176134		GM12892	Footprinting	Motifs
+rs60831555	chr17:77176134	AP-4	Hepatocytes	Footprinting	Motifs
+rs7225653	chr17:77177389	TEAD1		PWM	Motifs
+rs7225653	chr17:77177389	TEAD3		PWM	Motifs
+rs4077596	chr17:76618695	TEAD1		PWM	Motifs
+rs4077596	chr17:76618695	Zif268		PWM	Motifs
+rs2377405	chr17:77404093	IKZF1	HSPC	ChIP-seq		Protein_Binding
+rs2377405	chr17:77404093	ZSCAN4		PWM	Motifs
+rs7217236	chr17:76531613	STAT3	MCF10A-Er-Src	ChIP-seq	NA	Protein_Binding
+rs7217236	chr17:76531613	CTCF	MCF-7	ChIP-seq	NA	Protein_Binding
+rs7217236	chr17:76531613	ZNF263	HEK293-T-REx	ChIP-seq		Protein_Binding
+rs7217236	chr17:76531613	Gm397		PWM	Motifs

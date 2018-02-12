@@ -1,0 +1,20 @@
+rs181538
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Foxj1 (1) : [':PWM']", "Foxk1 (1) : [':PWM']"]
+rs181540
+	Prostate TFs : []
+	Other TFs    : ["YY1 (1) : ['GM12878:ChIP-seq']", "POLR2A (1) : ['GM12878:ChIP-seq']", "JUND (1) : ['HepG2:ChIP-seq']", "POU2F2 (1) : ['GM12891:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs181542
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["ZNF219 (4) : [':PWM', '8988t:Footprinting', 'Gm12892:Footprinting', 'Cll:Footprinting']", "SP1:SP3 (2) : [':PWM', 'H1hesc:Footprinting']", "EGR1 (1) : [':PWM']", "SP4 (1) : [':PWM']", "Egr (1) : [':PWM']", "Egr1 (1) : [':PWM']", "Egr-1 (1) : [':PWM']", "Sp1 (1) : [':PWM']", "SP1 (1) : [':PWM']", "EGR3 (1) : [':PWM']"]
+rs181543
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["T3R (7) : [':PWM', 'Cll:Footprinting', 'Huvec:Footprinting', 'Gm12878:Footprinting', 'Panisd:Footprinting', '8988t:Footprinting', 'Htr8:Footprinting']", "HTF (4) : [':PWM', 'Huvec:Footprinting', 'Panisd:Footprinting', '8988t:Footprinting']", "XBP1 (1) : [':PWM']"]

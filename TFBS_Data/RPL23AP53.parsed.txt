@@ -1,0 +1,62 @@
+rs3008276	chr8:189363	MEF-2		PWM	Motifs
+rs3008276	chr8:189363	MEF2D		PWM	Motifs
+rs10086982	chr8:156767	AP-2		PWM	Motifs
+rs10086982	chr8:156767	CTCF		PWM	Motifs
+rs28878202	chr8:162395	TEAD4	K562	ChIP-seq		Protein_Binding
+rs28878202	chr8:162395	GATA2	K562	ChIP-seq		Protein_Binding
+rs28878202	chr8:162395	TAL1	K562	ChIP-seq		Protein_Binding
+rs28878202	chr8:162395	GATA1	CD36	ChIP-seq	NA	Protein_Binding
+rs28878202	chr8:162395	GATA1	CD36	ChIP-seq	NA	Protein_Binding
+rs28878202	chr8:162395	ATF4		PWM	Motifs
+rs28878202	chr8:162395	Cphx		PWM	Motifs
+rs28878202	chr8:162395	DUXA		PWM	Motifs
+rs6983189	chr8:438672	USF1	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	JUND	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	MBD4	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	MXI1	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	SIN3A	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	RXRA	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	NFIC	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	ARID3A	HepG2	ChIP-seq		Protein_Binding
+rs6983189	chr8:438672	HNF4A	Caco2	ChIP-seq	NA	Protein_Binding
+rs2003497	chr8:176817	Bbx		PWM	Motifs
+rs34810249	chr8:163365	CEBPB	K562	ChIP-seq		Protein_Binding
+rs11992935	chr8:180719	Pax-6		PWM	Motifs
+rs3008281	chr8:172476	CACD		PWM	Motifs
+rs3008281	chr8:172476	Klf4		PWM	Motifs
+rs3008281	chr8:172476		HelaS3	Footprinting	Motifs
+rs3008281	chr8:172476		K562	Footprinting	Motifs
+rs3008281	chr8:172476		HUVEC	Footprinting	Motifs
+rs3008281	chr8:172476		GM12891	Footprinting	Motifs
+rs7841786	chr8:191745	EOMES		PWM	Motifs
+rs7841786	chr8:191745	TBR1		PWM	Motifs
+rs10866930	chr8:167419	Oct-1		PWM	Motifs
+rs10866930	chr8:167419	BCL6		PWM	Motifs
+rs10866930	chr8:167419	HOXA13		PWM	Motifs
+rs28548463	chr8:449136	Zfp105		PWM	Motifs
+rs4045964	chr8:163420	CEBPB	K562	ChIP-seq		Protein_Binding
+rs10097920	chr8:166850		SkMC	Footprinting	Motifs
+rs4045962	chr8:163418	CEBPB	K562	ChIP-seq		Protein_Binding
+rs4045963	chr8:163419	CEBPB	K562	ChIP-seq		Protein_Binding
+rs66823261	chr8:170691	Foxl1		PWM	Motifs
+rs66823261	chr8:170691	TCF11:MafG		PWM	Motifs
+rs66823261	chr8:170691	NFE2L2		PWM	Motifs
+rs28699605	chr8:166428	HNF1		PWM	Motifs
+rs2906326	chr8:184318	Rhox11		PWM	Motifs
+rs2906328	chr8:187638	Dbx1		PWM	Motifs
+rs2906328	chr8:187638	EMX2		PWM	Motifs
+rs2906328	chr8:187638	Oct-1		PWM	Motifs
+rs2906328	chr8:187638	UNCX		PWM	Motifs
+rs2906328	chr8:187638	ARX		PWM	Motifs
+rs2906328	chr8:187638	Tlx2		PWM	Motifs
+rs2906328	chr8:187638	ALX3		PWM	Motifs
+rs2906328	chr8:187638	ALX4		PWM	Motifs
+rs2906328	chr8:187638	DRGX		PWM	Motifs
+rs2906328	chr8:187638	ALX1		PWM	Motifs
+rs2906328	chr8:187638	CART1		PWM	Motifs
+rs2906328	chr8:187638	Hlx1		PWM	Motifs
+rs2906328	chr8:187638	EMX1		PWM	Motifs
+rs2906329	chr8:187937	NF-E2		PWM	Motifs
+rs2906329	chr8:187937	AP-4		PWM	Motifs
+rs10092114	chr8:200450	Glis2		PWM	Motifs
+rs10092114	chr8:200450	Pit-1		PWM	Motifs

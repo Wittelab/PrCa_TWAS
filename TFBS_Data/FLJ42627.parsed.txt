@@ -1,0 +1,14 @@
+rs7199251	chr16:3035581	SRF	GM12878	ChIP-seq		Protein_Binding
+rs7199251	chr16:3035581	SMAD4	Lncap	Footprinting	Motifs
+rs7199251	chr16:3035581	SMAD4		PWM	Motifs
+rs7199251	chr16:3035581	SMAD4	Chorion	Footprinting	Motifs
+rs7199251	chr16:3035581	SMAD4	Hsmm	Footprinting	Motifs
+rs7199251	chr16:3035581	SMAD4	H1hesc	Footprinting	Motifs
+rs7199251	chr16:3035581		GM12891	Footprinting	Motifs
+rs34244471	chr16:2527210	Tcf7		PWM	Motifs
+rs1005273	chr16:2645964	IKZF1	HSPC	ChIP-seq		Protein_Binding
+rs1005273	chr16:2645964	EBF1	GM12878	ChIP-seq		Protein_Binding
+rs1005273	chr16:2645964	RUNX3	GM12878	ChIP-seq		Protein_Binding
+rs1005273	chr16:2645964	EGR1	GM12878	ChIP-seq		Protein_Binding
+rs1005273	chr16:2645964	MYC	NB4	ChIP-seq		Protein_Binding
+rs1005273	chr16:2645964	MAX	NB4	ChIP-seq		Protein_Binding

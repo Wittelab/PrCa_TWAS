@@ -1,0 +1,30 @@
+rs60831555
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : ["AP-4 (1) : ['Lncap:Footprinting']"]
+	Other Motifs    : ["AP-4 (5) : [':PWM', 'Chorion:Footprinting', 'H1hesc:Footprinting', 'Myometr:Footprinting', 'Hepatocytes:Footprinting']", "NeuroD (2) : [':PWM', 'Chorion:Footprinting']", " (1) : ['GM12892:Footprinting']"]
+rs7225653
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TEAD3 (1) : [':PWM']", "TEAD1 (1) : [':PWM']"]
+rs4077596
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TEAD1 (1) : [':PWM']", "Zif268 (1) : [':PWM']"]
+rs1964452
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs2377405
+	Prostate TFs : []
+	Other TFs    : ["IKZF1 (1) : ['HSPC:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["ZSCAN4 (1) : [':PWM']"]
+rs7217236
+	Prostate TFs : []
+	Other TFs    : ["STAT3 (1) : ['MCF10A-Er-Src:ChIP-seq']", "CTCF (1) : ['MCF-7:ChIP-seq']", "ZNF263 (1) : ['HEK293-T-REx:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["Gm397 (1) : [':PWM']"]
