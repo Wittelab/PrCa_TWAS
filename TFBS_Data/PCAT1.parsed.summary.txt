@@ -1,0 +1,175 @@
+rs7824011
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["AP-1 (1) : [':PWM']", "FRA1 (1) : [':PWM']"]
+rs4473999
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs7842175
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs1516942
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TEAD3 (1) : [':PWM']", "TEAD1 (1) : [':PWM']", "TEAD4 (1) : [':PWM']"]
+rs28615829
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Crx (1) : [':PWM']", "Obox5 (1) : [':PWM']", "Dmbx1 (1) : [':PWM']", "Obox1 (1) : [':PWM']", "Otx2 (1) : [':PWM']"]
+rs7823297
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["CREB (1) : [':PWM']"]
+rs7844107
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs73351621
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["DMRT1 (1) : [':PWM']", "Bach1 (1) : [':PWM']"]
+rs9693379
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["EWSR1-FLI1 (1) : [':PWM']"]
+rs74485418
+	Prostate TFs : []
+	Other TFs    : ["ATF2 (1) : ['H1-hESC:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs78316206
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs2035637
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : ["CTCF (1) : ['HMF:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
+rs2124597
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TP73 (1) : [':PWM']"]
+rs10086908
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Spic (1) : [':PWM']", "SREBP1 (1) : [':PWM']", "Sfpi1 (1) : [':PWM']", "SREBP (1) : [':PWM']"]
+rs11448589
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Pou3f3 (1) : [':PWM']", "POU1F1 (1) : [':PWM']", "(SATB1)2 (1) : [':PWM']", "Glis2 (1) : [':PWM']", "POU4F1 (1) : [':PWM']", "POU4F2 (1) : [':PWM']", "Mafk (1) : [':PWM']", "POU4F3 (1) : [':PWM']"]
+rs4573233
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs7824393
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Bcl6b (1) : [':PWM']", "BCL6 (1) : [':PWM']"]
+rs79700700
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs1551513
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs1551515
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["CDPCR3 (1) : [':PWM']"]
+rs17830059
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs73351641
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["FOXP3 (1) : [':PWM']"]
+rs10481163
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Dlx4 (1) : [':PWM']", "EN1 (1) : [':PWM']", "GBX2 (1) : [':PWM']"]
+rs10481164
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs6651240
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["FOXJ2 (1) : [':PWM']", "FOXJ3 (1) : [':PWM']", "Srf (1) : [':PWM']", "Zfp128 (1) : [':PWM']", "FOXD3 (1) : [':PWM']", "Foxd3 (1) : [':PWM']", "Dbx1 (1) : [':PWM']", "FOXC1 (1) : [':PWM']"]
+rs7015383
+	Prostate TFs : []
+	Other TFs    : ["FOXA1 (1) : ['HepG2:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : ["Six6 (1) : [':PWM']", "Dobox4 (1) : [':PWM']"]
+rs28505810
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Tbp (1) : [':PWM']", "Six6 (1) : [':PWM']", "Zfp128 (1) : [':PWM']"]
+rs17762878
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["DMRT2 (1) : [':PWM']", "DMRT3 (1) : [':PWM']", "DMRT5 (1) : [':PWM']"]
+rs16901904
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs7823764
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs55986178
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs9656964
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["SRF (1) : [':PWM']"]
+rs17762938
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs73351629
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs16901898
+	Prostate TFs : ["SPDEF (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []

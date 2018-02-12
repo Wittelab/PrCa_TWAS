@@ -1,0 +1,35 @@
+rs78177998
+	Prostate TFs : ["AR (1) : ['VCaP:ChIP-seq']"]
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs7251465
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["TEF (1) : [':PWM']", "FOXO3 (1) : [':PWM']", "FOXO1 (1) : [':PWM']", "FOXO6 (1) : [':PWM']", "FOXO4 (1) : [':PWM']", "Nkx6-2 (1) : [':PWM']", "Sox7 (1) : [':PWM']"]
+rs174776
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs2659124
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs266863
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : []
+rs56397626
+	Prostate TFs : []
+	Other TFs    : []
+	Prostate Motifs : []
+	Other Motifs    : ["Pitx2 (1) : [':PWM']", "GTF2IRD1-isoform2 (1) : [':PWM']"]
+rs266878
+	Prostate TFs : []
+	Other TFs    : ["RFX3 (1) : ['K562:ChIP-seq']"]
+	Prostate Motifs : []
+	Other Motifs    : []
