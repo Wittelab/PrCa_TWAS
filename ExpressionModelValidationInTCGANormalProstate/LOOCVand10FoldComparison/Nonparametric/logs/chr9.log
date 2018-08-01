@@ -1,0 +1,65 @@
+
+###########################
+Step 1: Installing Packages
+###########################
+
+[[1]]
+[1] TRUE
+
+
+#########################
+Step 2: Parsing Arguments
+#########################
+
+
+###################################
+Step 3: Comparing Expression Values
+###################################
+
+[1] "APTX"
+[1] "ARPC5L"
+[1] "C9orf72"
+[1] "C9orf78"
+[1] "CD274"
+[1] "CDC26"
+[1] "CENPP"
+[1] "Skipping CNTNAP3B"
+[1] "DMRTA1"
+[1] "DNAJA1"
+[1] "DNLZ"
+[1] "ENDOG"
+[1] "EXOSC3"
+[1] "FBXW5"
+[1] "FRMPD1"
+[1] "GALT"
+[1] "GKAP1"
+[1] "GLDC"
+[1] "GNG10"
+[1] "GRHPR"
+[1] "GTF3C4"
+[1] "HSD17B3"
+[1] "KLHL9"
+[1] "LCNL1"
+[1] "NFX1"
+[1] "NUDT2"
+[1] "PHYHD1"
+[1] "PRPF4"
+[1] "PSMD5"
+[1] "RFK"
+[1] "RFX3"
+[1] "RPL12"
+[1] "SARDH"
+[1] "SETX"
+[1] "SH3GLB2"
+[1] "SLC1A1"
+[1] "SLC2A8"
+[1] "SLC44A1"
+[1] "SLC46A2"
+[1] "SNAPC3"
+[1] "STX17"
+[1] "STXBP1"
+[1] "SURF1"
+[1] "UBAP2"
+[1] "WNK2"
+[1] "ZDHHC21"
+[1] "ZNF79"

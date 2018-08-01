@@ -1,0 +1,2404 @@
+2018-05-23 16:24:04.127036 Preloading weights...
+2018-05-23 16:24:04.471163 Processing chr18.tcga_normal_tissue.dose.rsid_annotated.vcf.gz
+Updating for THOC1, chr18.63101.C.T
+Match Type 1: gene :THOC1	rsid: chr18.63101.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.184704.T.C
+Match Type 1: gene :THOC1	rsid: chr18.184704.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for THOC1, chr18.204232.G.A
+Match Type 1: gene :THOC1	rsid: chr18.204232.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for THOC1, chr18.218695.T.C
+Match Type 1: gene :THOC1	rsid: chr18.218695.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for THOC1, chr18.224184.C.G
+Ambiguous SNP: gene :THOC1	rsid: chr18.224184.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.229853.C.G
+Ambiguous SNP: gene :THOC1	rsid: chr18.229853.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.354542.G.T
+Match Type 1: gene :THOC1	rsid: chr18.354542.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for THOC1, chr18.387554.T.C
+Match Type 1: gene :THOC1	rsid: chr18.387554.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for THOC1, chr18.465539.C.T
+Match Type 1: gene :THOC1	rsid: chr18.465539.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.499239.G.A
+Match Type 1: gene :THOC1	rsid: chr18.499239.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for THOC1, chr18.564104.C.T
+Match Type 1: gene :THOC1	rsid: chr18.564104.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.633655.C.T
+Match Type 1: gene :THOC1	rsid: chr18.633655.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.953989.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.953989.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.954465.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.954465.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.955042.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.955042.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.955285.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.955285.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.957031.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.957031.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.967483.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.967483.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.967803.A.G
+Match Type 1: gene :ADCYAP1	rsid: chr18.967803.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ADCYAP1, chr18.968472.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.968472.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.970670.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.970670.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.978639.C.G
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.978639.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.979088.C.G
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.979088.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.979176.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.979176.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.979496.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.979496.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.980225.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.980225.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.983078.C.G
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.983078.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.983188.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.983188.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.985108.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.985108.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.985320.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.985320.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.986599.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.986599.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.986808.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.986808.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.986978.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.986978.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.993553.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.993553.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.998251.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.998251.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.1193210.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.1193210.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.1200502.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.1200502.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.1357652.T.A
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.1357652.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.1373924.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.1373924.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MYOM1, chr18.3012078.C.G
+Ambiguous SNP: gene :MYOM1	rsid: chr18.3012078.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3047192.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3047192.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MYOM1, chr18.3089522.G.T
+Match Type 1: gene :MYOM1	rsid: chr18.3089522.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3202590.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3202590.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MYOM1, chr18.3215030.C.A
+Match Type 1: gene :MYOM1	rsid: chr18.3215030.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for MYOM1, chr18.3218295.A.T
+Ambiguous SNP: gene :MYOM1	rsid: chr18.3218295.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for MYOM1, chr18.3221172.T.C
+Match Type 1: gene :MYOM1	rsid: chr18.3221172.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3225312.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3225312.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3225742.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3225742.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3225752.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3225752.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3226196.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3226196.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3226233.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3226233.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3226360.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3226360.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3226450.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3226450.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3226470.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3226470.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3227393.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3227393.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3228847.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3228847.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3229717.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3229717.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3268889.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3268889.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3287185.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3287185.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3296316.T.C
+Match Type 1: gene :MYOM1	rsid: chr18.3296316.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MYOM1, chr18.3307534.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3307534.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3311748.G.T
+Match Type 1: gene :MYOM1	rsid: chr18.3311748.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3350197.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3350197.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3396070.G.C
+Ambiguous SNP: gene :MYOM1	rsid: chr18.3396070.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3396070.G.C
+Ambiguous SNP: gene :TGIF1	rsid: chr18.3396070.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3503820.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3503820.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3503820.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3503820.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3510290.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3510290.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3515187.G.T
+Match Type 1: gene :MYOM1	rsid: chr18.3515187.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3515638.C.A
+Match Type 1: gene :MYOM1	rsid: chr18.3515638.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3534175.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3534175.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3535365.T.G
+Match Type 1: gene :TGIF1	rsid: chr18.3535365.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for MYOM1, chr18.3653037.C.T
+Match Type 1: gene :MYOM1	rsid: chr18.3653037.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3791194.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3791194.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3924523.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3924523.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3925340.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3925340.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3926400.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3926400.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3926468.C.A
+Match Type 1: gene :TGIF1	rsid: chr18.3926468.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5393024.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5393024.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5394106.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5394106.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5449140.T.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5449140.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5456725.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5456725.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5456774.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5456774.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5494207.C.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5494207.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5494217.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5494217.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5592529.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5592529.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5595487.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5595487.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5652809.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5652809.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5663946.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5663946.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5665454.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5665454.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5693091.G.C
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5693091.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5704656.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5704656.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5721453.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5721453.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5727228.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5727228.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5749418.A.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5749418.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5821263.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5821263.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5850612.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5850612.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5862524.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5862524.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5889765.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5889765.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5897091.G.C
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5897091.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5908869.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5908869.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5915072.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5915072.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5921860.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5921860.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5927441.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5927441.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5928479.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5928479.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5930979.A.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5930979.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5932037.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5932037.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5945254.C.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5945254.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5948226.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5948226.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5950153.T.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5950153.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5978931.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5978931.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.6005847.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.6005847.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.6007921.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.6007921.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6008583.A.C
+Match Type 1: gene :TMEM200C	rsid: chr18.6008583.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6008961.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.6008961.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.6012357.C.A
+Match Type 1: gene :TMEM200C	rsid: chr18.6012357.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.6022769.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.6022769.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6085916.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.6085916.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.6127463.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.6127463.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6386658.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.6386658.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.8934984.C.A
+Match Type 1: gene :TWSG1	rsid: chr18.8934984.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.8955928.C.A
+Match Type 1: gene :TWSG1	rsid: chr18.8955928.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9186684.G.T
+Match Type 1: gene :TWSG1	rsid: chr18.9186684.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9352858.A.C
+Match Type 1: gene :TWSG1	rsid: chr18.9352858.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9361613.T.G
+Match Type 1: gene :TWSG1	rsid: chr18.9361613.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9363215.T.G
+Match Type 1: gene :TWSG1	rsid: chr18.9363215.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9363790.C.A
+Match Type 1: gene :TWSG1	rsid: chr18.9363790.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9364197.T.C
+Match Type 1: gene :TWSG1	rsid: chr18.9364197.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9365399.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9365399.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9365590.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9365590.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9371163.C.G
+Ambiguous SNP: gene :TWSG1	rsid: chr18.9371163.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9375843.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9375843.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9382007.T.C
+Match Type 1: gene :TWSG1	rsid: chr18.9382007.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9382477.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9382477.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9386121.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9386121.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9390346.A.G
+Match Type 1: gene :TWSG1	rsid: chr18.9390346.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9396995.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9396995.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9397004.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9397004.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9397015.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9397015.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9397172.T.G
+Match Type 1: gene :TWSG1	rsid: chr18.9397172.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.9657501.C.T
+Match Type 1: gene :RAB31	rsid: chr18.9657501.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RAB31, chr18.9672660.A.G
+Match Type 1: gene :RAB31	rsid: chr18.9672660.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9696766.A.C
+Match Type 1: gene :TWSG1	rsid: chr18.9696766.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9699552.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9699552.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RAB31, chr18.9700456.C.G
+Ambiguous SNP: gene :RAB31	rsid: chr18.9700456.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9700456.C.G
+Ambiguous SNP: gene :TWSG1	rsid: chr18.9700456.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9702461.T.A
+Ambiguous SNP: gene :TWSG1	rsid: chr18.9702461.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.9707102.T.A
+Ambiguous SNP: gene :RAB31	rsid: chr18.9707102.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.9836589.A.G
+Match Type 1: gene :RAB31	rsid: chr18.9836589.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10197500.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10197500.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RAB31, chr18.10239316.T.C
+Match Type 1: gene :RAB31	rsid: chr18.10239316.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.10239335.C.G
+Ambiguous SNP: gene :RAB31	rsid: chr18.10239335.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for RAB31, chr18.10239428.T.A
+Ambiguous SNP: gene :RAB31	rsid: chr18.10239428.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.10239522.A.G
+Match Type 1: gene :RAB31	rsid: chr18.10239522.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RAB31, chr18.10239569.G.T
+Match Type 1: gene :RAB31	rsid: chr18.10239569.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for RAB31, chr18.10239597.G.A
+Match Type 1: gene :RAB31	rsid: chr18.10239597.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10351703.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10351703.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10397743.G.T
+Match Type 1: gene :NAPG	rsid: chr18.10397743.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10447547.C.T
+Match Type 1: gene :NAPG	rsid: chr18.10447547.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10493908.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10493908.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10502425.G.T
+Match Type 1: gene :NAPG	rsid: chr18.10502425.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10503663.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10503663.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10505276.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10505276.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10505584.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10505584.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10525585.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10525585.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10526263.C.G
+Ambiguous SNP: gene :NAPG	rsid: chr18.10526263.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10526284.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10526284.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10526413.T.C
+Match Type 1: gene :NAPG	rsid: chr18.10526413.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for NAPG, chr18.10527354.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10527354.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10531606.A.C
+Match Type 1: gene :NAPG	rsid: chr18.10531606.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10532939.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10532939.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10535490.G.T
+Match Type 1: gene :NAPG	rsid: chr18.10535490.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10536628.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10536628.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10538129.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10538129.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10538758.A.T
+Ambiguous SNP: gene :NAPG	rsid: chr18.10538758.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10539739.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10539739.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10547000.C.T
+Match Type 1: gene :NAPG	rsid: chr18.10547000.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10549435.T.C
+Match Type 1: gene :NAPG	rsid: chr18.10549435.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for NAPG, chr18.10556836.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10556836.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10900786.C.T
+Match Type 1: gene :NAPG	rsid: chr18.10900786.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10921579.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10921579.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.11484097.T.G
+Match Type 1: gene :IMPA2	rsid: chr18.11484097.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11486483.A.C
+Match Type 1: gene :IMPA2	rsid: chr18.11486483.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for IMPA2, chr18.11524744.A.T
+Ambiguous SNP: gene :IMPA2	rsid: chr18.11524744.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for IMPA2, chr18.11576119.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11576119.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11802153.C.A
+Match Type 1: gene :IMPA2	rsid: chr18.11802153.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for IMPA2, chr18.11955987.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11955987.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11984196.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11984196.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11987988.C.A
+Match Type 1: gene :IMPA2	rsid: chr18.11987988.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for IMPA2, chr18.11988098.G.C
+Ambiguous SNP: gene :IMPA2	rsid: chr18.11988098.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.11988517.T.G
+Match Type 1: gene :IMPA2	rsid: chr18.11988517.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11988637.A.G
+Match Type 1: gene :IMPA2	rsid: chr18.11988637.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for IMPA2, chr18.11988855.G.A
+Match Type 1: gene :IMPA2	rsid: chr18.11988855.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.11999115.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11999115.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11999556.G.T
+Match Type 1: gene :IMPA2	rsid: chr18.11999556.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.12254816.A.G
+Match Type 1: gene :IMPA2	rsid: chr18.12254816.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12404816.A.C
+Match Type 1: gene :SLMO1	rsid: chr18.12404816.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12407916.G.T
+Match Type 1: gene :SLMO1	rsid: chr18.12407916.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12410278.C.G
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12410278.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12413985.G.T
+Match Type 1: gene :SLMO1	rsid: chr18.12413985.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12414776.C.G
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12414776.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12414848.G.C
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12414848.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12415136.G.A
+Match Type 1: gene :SLMO1	rsid: chr18.12415136.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12415571.A.G
+Match Type 1: gene :SLMO1	rsid: chr18.12415571.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12416722.G.A
+Match Type 1: gene :SLMO1	rsid: chr18.12416722.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12438519.C.G
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12438519.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12439062.A.C
+Match Type 1: gene :SLMO1	rsid: chr18.12439062.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12444107.T.C
+Match Type 1: gene :SLMO1	rsid: chr18.12444107.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for SLMO1, chr18.12446116.G.C
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12446116.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12446689.G.T
+Match Type 1: gene :SLMO1	rsid: chr18.12446689.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12477796.C.T
+Match Type 1: gene :SLMO1	rsid: chr18.12477796.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12485188.C.T
+Match Type 1: gene :SLMO1	rsid: chr18.12485188.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12736491.A.G
+Match Type 1: gene :CEP192	rsid: chr18.12736491.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.12951738.G.A
+Match Type 1: gene :CEP192	rsid: chr18.12951738.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12954740.G.T
+Match Type 1: gene :CEP192	rsid: chr18.12954740.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12959059.C.T
+Match Type 1: gene :CEP192	rsid: chr18.12959059.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12970262.G.A
+Match Type 1: gene :CEP192	rsid: chr18.12970262.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12977206.A.C
+Match Type 1: gene :CEP192	rsid: chr18.12977206.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.12977630.C.G
+Ambiguous SNP: gene :CEP192	rsid: chr18.12977630.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12978183.T.C
+Match Type 1: gene :CEP192	rsid: chr18.12978183.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.12984144.C.A
+Match Type 1: gene :CEP192	rsid: chr18.12984144.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12984340.A.C
+Match Type 1: gene :CEP192	rsid: chr18.12984340.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.12986000.G.A
+Match Type 1: gene :CEP192	rsid: chr18.12986000.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12991393.T.C
+Match Type 1: gene :CEP192	rsid: chr18.12991393.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.12999964.A.G
+Match Type 1: gene :CEP192	rsid: chr18.12999964.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13005473.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13005473.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13026120.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13026120.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13029068.T.G
+Match Type 1: gene :CEP192	rsid: chr18.13029068.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13047784.T.G
+Match Type 1: gene :CEP192	rsid: chr18.13047784.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13058318.A.G
+Match Type 1: gene :CEP192	rsid: chr18.13058318.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13059494.T.A
+Ambiguous SNP: gene :CEP192	rsid: chr18.13059494.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13065484.C.A
+Match Type 1: gene :CEP192	rsid: chr18.13065484.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13066123.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13066123.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13068132.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13068132.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13069782.C.T
+Match Type 1: gene :CEP192	rsid: chr18.13069782.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13070930.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13070930.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13081303.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13081303.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13087789.A.G
+Match Type 1: gene :CEP192	rsid: chr18.13087789.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13087815.G.A
+Match Type 1: gene :CEP192	rsid: chr18.13087815.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.13091661.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13091661.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13095609.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13095609.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13096436.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13096436.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13104251.A.G
+Match Type 1: gene :CEP192	rsid: chr18.13104251.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13106337.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13106337.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13109879.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13109879.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13113197.C.T
+Match Type 1: gene :CEP192	rsid: chr18.13113197.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13116432.G.T
+Match Type 1: gene :CEP192	rsid: chr18.13116432.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.13123645.C.G
+Ambiguous SNP: gene :CEP192	rsid: chr18.13123645.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13123876.C.G
+Ambiguous SNP: gene :CEP192	rsid: chr18.13123876.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13180323.C.A
+Match Type 1: gene :CEP192	rsid: chr18.13180323.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13451436.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13451436.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13564877.G.A
+Match Type 1: gene :CEP192	rsid: chr18.13564877.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZNF519, chr18.13884009.G.A
+Match Type 1: gene :ZNF519	rsid: chr18.13884009.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZNF519, chr18.13916579.T.A
+Ambiguous SNP: gene :ZNF519	rsid: chr18.13916579.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for ZNF519, chr18.14027616.T.C
+Match Type 1: gene :ZNF519	rsid: chr18.14027616.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ZNF519, chr18.14028535.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14028535.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZNF519, chr18.14035207.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14035207.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZNF519, chr18.14132402.G.C
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14132402.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for ZNF519, chr18.14141133.A.G
+Match Type 1: gene :ZNF519	rsid: chr18.14141133.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ZNF519, chr18.14141788.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14141788.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZNF519, chr18.14328068.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14328068.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19308346.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19308346.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19313108.G.T
+Match Type 1: gene :MIB1	rsid: chr18.19313108.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19320823.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19320823.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19324423.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19324423.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19325482.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19325482.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19329203.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19329203.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19330151.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19330151.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19338932.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19338932.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19363221.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19363221.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19364412.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19364412.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19364600.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19364600.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19370108.A.G
+Match Type 1: gene :MIB1	rsid: chr18.19370108.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for MIB1, chr18.19373993.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19373993.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19381456.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19381456.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19401854.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19401854.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19432430.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19432430.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19435100.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19435100.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19440341.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19440341.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19455004.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19455004.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19462178.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19462178.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19462669.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19462669.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19473973.A.G
+Match Type 1: gene :MIB1	rsid: chr18.19473973.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for MIB1, chr18.19601717.T.G
+Match Type 1: gene :MIB1	rsid: chr18.19601717.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19681372.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19681372.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19701351.A.G
+Match Type 1: gene :MIB1	rsid: chr18.19701351.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for MIB1, chr18.19805214.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19805214.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19857690.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19857690.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19910184.C.G
+Ambiguous SNP: gene :MIB1	rsid: chr18.19910184.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19910949.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19910949.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20412351.G.T
+Match Type 1: gene :TMEM241	rsid: chr18.20412351.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20577178.A.G
+Match Type 1: gene :TMEM241	rsid: chr18.20577178.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.20634344.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20634344.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20650012.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20650012.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20655635.C.G
+Ambiguous SNP: gene :TMEM241	rsid: chr18.20655635.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20682621.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20682621.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20707115.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20707115.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20710155.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20710155.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20827587.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20827587.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20855609.T.C
+Match Type 1: gene :TMEM241	rsid: chr18.20855609.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20855619.T.C
+Match Type 1: gene :TMEM241	rsid: chr18.20855619.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20877564.T.C
+Match Type 1: gene :TMEM241	rsid: chr18.20877564.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20916950.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20916950.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20925963.A.C
+Match Type 1: gene :TMEM241	rsid: chr18.20925963.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.20931239.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20931239.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20934999.C.A
+Match Type 1: gene :TMEM241	rsid: chr18.20934999.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20938938.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20938938.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20953720.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20953720.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20961635.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20961635.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.21016793.G.T
+Match Type 1: gene :TMEM241	rsid: chr18.21016793.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.21075466.A.C
+Match Type 1: gene :TMEM241	rsid: chr18.21075466.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.21140367.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.21140367.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.21162161.A.G
+Match Type 1: gene :TMEM241	rsid: chr18.21162161.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.21242304.C.G
+Ambiguous SNP: gene :TMEM241	rsid: chr18.21242304.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.21441302.T.A
+Ambiguous SNP: gene :TMEM241	rsid: chr18.21441302.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.33362043.C.T
+Match Type 1: gene :ELP2	rsid: chr18.33362043.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33363528.C.G
+Ambiguous SNP: gene :ELP2	rsid: chr18.33363528.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33368313.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33368313.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.33484792.G.A
+Match Type 1: gene :ELP2	rsid: chr18.33484792.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.33532971.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33532971.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.33669222.C.G
+Ambiguous SNP: gene :ELP2	rsid: chr18.33669222.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33796927.C.T
+Match Type 1: gene :ELP2	rsid: chr18.33796927.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33811836.T.C
+Match Type 1: gene :ELP2	rsid: chr18.33811836.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.33813085.C.A
+Match Type 1: gene :ELP2	rsid: chr18.33813085.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33820801.C.G
+Ambiguous SNP: gene :ELP2	rsid: chr18.33820801.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33824500.C.A
+Match Type 1: gene :ELP2	rsid: chr18.33824500.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33828659.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33828659.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.33828805.C.T
+Match Type 1: gene :ELP2	rsid: chr18.33828805.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33831189.C.A
+Match Type 1: gene :ELP2	rsid: chr18.33831189.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33860831.G.A
+Match Type 1: gene :ELP2	rsid: chr18.33860831.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.33860831.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.33860831.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.33870774.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.33870774.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33974664.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33974664.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34010470.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34010470.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34010589.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34010589.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34033636.A.G
+Match Type 1: gene :ELP2	rsid: chr18.34033636.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.34036296.T.G
+Match Type 1: gene :ELP2	rsid: chr18.34036296.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34070528.T.G
+Match Type 1: gene :TPGS2	rsid: chr18.34070528.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34085432.A.G
+Match Type 1: gene :ELP2	rsid: chr18.34085432.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34088297.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34088297.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34109392.T.C
+Match Type 1: gene :ELP2	rsid: chr18.34109392.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34115469.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34115469.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34124843.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34124843.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34128316.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34128316.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.34157719.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34157719.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34158730.G.T
+Match Type 1: gene :ELP2	rsid: chr18.34158730.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34159946.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34159946.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34186660.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34186660.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34187189.G.C
+Ambiguous SNP: gene :ELP2	rsid: chr18.34187189.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34189665.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34189665.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34191323.T.G
+Match Type 1: gene :ELP2	rsid: chr18.34191323.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34192160.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34192160.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34219418.G.T
+Match Type 1: gene :ELP2	rsid: chr18.34219418.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34219451.G.A
+Match Type 1: gene :ELP2	rsid: chr18.34219451.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34251815.G.A
+Match Type 1: gene :ELP2	rsid: chr18.34251815.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34255116.A.G
+Match Type 1: gene :ELP2	rsid: chr18.34255116.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.34255177.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34255177.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34255303.T.C
+Match Type 1: gene :ELP2	rsid: chr18.34255303.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34255656.G.A
+Match Type 1: gene :ELP2	rsid: chr18.34255656.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34255767.T.C
+Match Type 1: gene :ELP2	rsid: chr18.34255767.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34261048.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34261048.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34261190.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34261190.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34261559.T.A
+Ambiguous SNP: gene :TPGS2	rsid: chr18.34261559.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34262799.C.A
+Match Type 1: gene :TPGS2	rsid: chr18.34262799.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34263420.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34263420.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34265969.G.T
+Match Type 1: gene :TPGS2	rsid: chr18.34265969.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34266036.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34266036.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34268690.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34268690.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34294704.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34294704.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34340183.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34340183.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34348904.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34348904.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34355579.T.G
+Match Type 1: gene :TPGS2	rsid: chr18.34355579.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34361762.G.C
+Ambiguous SNP: gene :TPGS2	rsid: chr18.34361762.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34379353.C.G
+Ambiguous SNP: gene :TPGS2	rsid: chr18.34379353.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34382837.C.A
+Match Type 1: gene :TPGS2	rsid: chr18.34382837.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34389391.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34389391.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34398914.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34398914.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34400459.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34400459.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34400702.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34400702.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34410831.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34410831.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34429254.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34429254.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34502171.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34502171.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34578888.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34578888.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34635606.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34635606.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34731805.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34731805.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34848136.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34848136.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.42953909.C.A
+Match Type 1: gene :EPG5	rsid: chr18.42953909.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.42958913.A.G
+Match Type 1: gene :EPG5	rsid: chr18.42958913.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.42959477.C.A
+Match Type 1: gene :EPG5	rsid: chr18.42959477.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.42960592.G.A
+Match Type 1: gene :EPG5	rsid: chr18.42960592.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43150994.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43150994.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43229858.G.A
+Match Type 1: gene :EPG5	rsid: chr18.43229858.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43250379.A.G
+Match Type 1: gene :EPG5	rsid: chr18.43250379.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.43253100.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43253100.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43468947.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43468947.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43472035.A.C
+Match Type 1: gene :EPG5	rsid: chr18.43472035.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.43473375.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43473375.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43474923.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43474923.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43475402.C.G
+Ambiguous SNP: gene :EPG5	rsid: chr18.43475402.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43476386.G.C
+Ambiguous SNP: gene :EPG5	rsid: chr18.43476386.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43481755.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43481755.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43485710.A.G
+Match Type 1: gene :EPG5	rsid: chr18.43485710.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.43497710.A.G
+Match Type 1: gene :EPG5	rsid: chr18.43497710.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RNF165, chr18.43559623.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43559623.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43575061.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43575061.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43793488.T.C
+Match Type 1: gene :EPG5	rsid: chr18.43793488.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for EPG5, chr18.43873021.G.A
+Match Type 1: gene :EPG5	rsid: chr18.43873021.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43876309.T.C
+Match Type 1: gene :RNF165	rsid: chr18.43876309.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RNF165, chr18.43888147.C.G
+Ambiguous SNP: gene :RNF165	rsid: chr18.43888147.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.43890429.C.T
+Match Type 1: gene :RNF165	rsid: chr18.43890429.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.43901516.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43901516.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43902711.G.A
+Match Type 1: gene :EPG5	rsid: chr18.43902711.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43943509.T.C
+Match Type 1: gene :RNF165	rsid: chr18.43943509.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RNF165, chr18.43944319.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43944319.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43946837.T.C
+Match Type 1: gene :RNF165	rsid: chr18.43946837.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for EPG5, chr18.43964478.T.C
+Match Type 1: gene :EPG5	rsid: chr18.43964478.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RNF165, chr18.44141178.C.T
+Match Type 1: gene :RNF165	rsid: chr18.44141178.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.44216180.C.T
+Match Type 1: gene :RNF165	rsid: chr18.44216180.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.44216758.C.T
+Match Type 1: gene :RNF165	rsid: chr18.44216758.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46517895.A.C
+Match Type 1: gene :RPL17	rsid: chr18.46517895.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.46517900.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46517900.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46518624.G.T
+Match Type 1: gene :RPL17	rsid: chr18.46518624.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46525660.C.T
+Match Type 1: gene :RPL17	rsid: chr18.46525660.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46532042.C.G
+Ambiguous SNP: gene :RPL17	rsid: chr18.46532042.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46533841.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46533841.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46537012.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46537012.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46540942.C.A
+Match Type 1: gene :RPL17	rsid: chr18.46540942.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.46595499.C.T
+Match Type 1: gene :LIPG	rsid: chr18.46595499.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.46653245.A.T
+Ambiguous SNP: gene :LIPG	rsid: chr18.46653245.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.46655215.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46655215.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.46668256.C.G
+Ambiguous SNP: gene :LIPG	rsid: chr18.46668256.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.46713516.C.T
+Match Type 1: gene :LIPG	rsid: chr18.46713516.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46807168.A.C
+Match Type 1: gene :RPL17	rsid: chr18.46807168.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.46874780.C.T
+Match Type 1: gene :RPL17	rsid: chr18.46874780.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46878862.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46878862.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.46955354.T.C
+Match Type 1: gene :LIPG	rsid: chr18.46955354.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47005435.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47005435.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47011611.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47011611.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47011741.T.C
+Match Type 1: gene :RPL17	rsid: chr18.47011741.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47011784.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47011784.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47011885.T.C
+Match Type 1: gene :RPL17	rsid: chr18.47011885.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47012834.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47012834.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47013626.G.T
+Match Type 1: gene :RPL17	rsid: chr18.47013626.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47016787.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47016787.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47018198.T.G
+Match Type 1: gene :RPL17	rsid: chr18.47018198.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47021774.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47021774.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47023277.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47023277.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47085440.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47085440.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47113807.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47113807.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47138509.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47138509.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.47140409.C.T
+Match Type 1: gene :LIPG	rsid: chr18.47140409.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47171046.A.T
+Ambiguous SNP: gene :RPL17	rsid: chr18.47171046.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47175670.A.C
+Match Type 1: gene :RPL17	rsid: chr18.47175670.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47178583.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47178583.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47181568.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47181568.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.47190835.A.G
+Match Type 1: gene :LIPG	rsid: chr18.47190835.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for LIPG, chr18.47192294.C.A
+Match Type 1: gene :LIPG	rsid: chr18.47192294.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.47192712.G.A
+Match Type 1: gene :LIPG	rsid: chr18.47192712.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.47428107.A.G
+Match Type 1: gene :LIPG	rsid: chr18.47428107.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47445407.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47445407.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.47506520.T.C
+Match Type 1: gene :LIPG	rsid: chr18.47506520.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for LIPG, chr18.47507426.C.T
+Match Type 1: gene :LIPG	rsid: chr18.47507426.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47514474.T.C
+Match Type 1: gene :RPL17	rsid: chr18.47514474.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47518652.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47518652.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for LIPG, chr18.47524857.C.T
+Match Type 1: gene :LIPG	rsid: chr18.47524857.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51471757.A.G
+Match Type 1: gene :POLI	rsid: chr18.51471757.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51476888.G.A
+Match Type 1: gene :POLI	rsid: chr18.51476888.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51496204.A.G
+Match Type 1: gene :POLI	rsid: chr18.51496204.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51496791.G.A
+Match Type 1: gene :POLI	rsid: chr18.51496791.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51687280.G.A
+Match Type 1: gene :POLI	rsid: chr18.51687280.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51766435.C.T
+Match Type 1: gene :POLI	rsid: chr18.51766435.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51767004.A.G
+Match Type 1: gene :POLI	rsid: chr18.51767004.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51767894.T.C
+Match Type 1: gene :POLI	rsid: chr18.51767894.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51769949.G.C
+Ambiguous SNP: gene :POLI	rsid: chr18.51769949.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51771322.T.C
+Match Type 1: gene :POLI	rsid: chr18.51771322.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51775271.C.T
+Match Type 1: gene :POLI	rsid: chr18.51775271.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51781019.T.C
+Match Type 1: gene :POLI	rsid: chr18.51781019.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51782775.C.T
+Match Type 1: gene :POLI	rsid: chr18.51782775.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51784064.T.A
+Ambiguous SNP: gene :POLI	rsid: chr18.51784064.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51787992.T.A
+Ambiguous SNP: gene :POLI	rsid: chr18.51787992.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51793968.A.G
+Match Type 1: gene :POLI	rsid: chr18.51793968.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51795847.G.T
+Match Type 1: gene :POLI	rsid: chr18.51795847.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51798047.C.G
+Ambiguous SNP: gene :POLI	rsid: chr18.51798047.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51802708.C.A
+Match Type 1: gene :POLI	rsid: chr18.51802708.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51802787.T.C
+Match Type 1: gene :POLI	rsid: chr18.51802787.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51813966.T.A
+Ambiguous SNP: gene :POLI	rsid: chr18.51813966.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51815283.A.G
+Match Type 1: gene :POLI	rsid: chr18.51815283.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51830294.C.T
+Match Type 1: gene :POLI	rsid: chr18.51830294.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51842904.C.A
+Match Type 1: gene :POLI	rsid: chr18.51842904.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51854704.G.A
+Match Type 1: gene :POLI	rsid: chr18.51854704.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51856027.C.T
+Match Type 1: gene :POLI	rsid: chr18.51856027.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51859615.C.T
+Match Type 1: gene :POLI	rsid: chr18.51859615.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51864456.C.T
+Match Type 1: gene :POLI	rsid: chr18.51864456.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51874499.T.C
+Match Type 1: gene :POLI	rsid: chr18.51874499.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59278471.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59278471.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59284584.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59284584.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for KIAA1468, chr18.59414248.A.G
+Match Type 1: gene :KIAA1468	rsid: chr18.59414248.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59751331.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59751331.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59753135.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59753135.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59753453.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59753453.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59755803.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59755803.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59763553.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59763553.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59773510.T.A
+Ambiguous SNP: gene :PIGN	rsid: chr18.59773510.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59779121.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59779121.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59785119.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59785119.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59789644.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59789644.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59790460.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59790460.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59791041.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59791041.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59791951.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59791951.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59798534.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59798534.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59801496.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59801496.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59809505.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59809505.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59812275.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59812275.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59812348.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59812348.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59831462.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59831462.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59834469.A.C
+Match Type 1: gene :PIGN	rsid: chr18.59834469.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59836405.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59836405.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59840597.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59840597.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59840673.C.G
+Ambiguous SNP: gene :PIGN	rsid: chr18.59840673.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59841968.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59841968.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59843449.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59843449.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59843751.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59843751.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59844097.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59844097.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59844304.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59844304.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59845916.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59845916.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59845930.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59845930.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59846395.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59846395.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59847435.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59847435.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59847669.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59847669.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59848365.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59848365.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59848796.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59848796.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59849022.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59849022.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59849541.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59849541.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59851242.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59851242.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59851645.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59851645.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59852101.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59852101.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59852732.T.A
+Ambiguous SNP: gene :PIGN	rsid: chr18.59852732.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59854253.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59854253.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59856749.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59856749.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59857499.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59857499.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59857583.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59857583.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59858140.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59858140.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59858837.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59858837.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59859060.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59859060.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59863298.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59863298.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59867101.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59867101.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59867736.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59867736.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59871234.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59871234.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59873480.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59873480.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59875310.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59875310.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59875341.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59875341.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59876428.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59876428.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59876495.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59876495.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59876950.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59876950.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59877940.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59877940.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59878184.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59878184.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59881409.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59881409.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59882684.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59882684.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59883927.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59883927.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59885402.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59885402.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59885668.G.C
+Ambiguous SNP: gene :PIGN	rsid: chr18.59885668.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59888588.T.G
+Match Type 1: gene :PIGN	rsid: chr18.59888588.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59889844.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59889844.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59889968.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59889968.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59890005.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59890005.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59890693.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59890693.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59890998.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59890998.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59891158.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59891158.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59891448.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59891448.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59891490.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59891490.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59892181.T.A
+Ambiguous SNP: gene :PIGN	rsid: chr18.59892181.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59896321.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59896321.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59900169.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59900169.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59902869.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59902869.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59905893.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59905893.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59907063.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59907063.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59907758.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59907758.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59908482.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59908482.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59908592.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59908592.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59929009.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59929009.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59929664.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59929664.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59929836.A.C
+Match Type 1: gene :PIGN	rsid: chr18.59929836.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59930426.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59930426.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59931106.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59931106.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59934344.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59934344.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59934426.A.C
+Match Type 1: gene :PIGN	rsid: chr18.59934426.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for KIAA1468, chr18.60209709.C.G
+Ambiguous SNP: gene :KIAA1468	rsid: chr18.60209709.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for KIAA1468, chr18.60355524.C.G
+Ambiguous SNP: gene :KIAA1468	rsid: chr18.60355524.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72904986.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72904986.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72907432.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72907432.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72907648.A.G
+Match Type 1: gene :ZADH2	rsid: chr18.72907648.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ZADH2, chr18.72909321.G.C
+Ambiguous SNP: gene :ZADH2	rsid: chr18.72909321.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72911548.G.A
+Match Type 1: gene :ZADH2	rsid: chr18.72911548.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72912469.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72912469.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72914280.G.A
+Match Type 1: gene :ZADH2	rsid: chr18.72914280.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72915964.A.G
+Match Type 1: gene :ZADH2	rsid: chr18.72915964.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ZADH2, chr18.72919166.G.T
+Match Type 1: gene :ZADH2	rsid: chr18.72919166.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72985563.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72985563.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72988810.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72988810.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72995404.T.G
+Match Type 1: gene :ZADH2	rsid: chr18.72995404.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+2018-05-23 16:25:08.163008 Processing chr18.tcga_normal_tissue.dose.vcf.gz
+Updating for THOC1, chr18.63101.C.T
+Match Type 1: gene :THOC1	rsid: chr18.63101.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.184704.T.C
+Match Type 1: gene :THOC1	rsid: chr18.184704.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for THOC1, chr18.204232.G.A
+Match Type 1: gene :THOC1	rsid: chr18.204232.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for THOC1, chr18.218695.T.C
+Match Type 1: gene :THOC1	rsid: chr18.218695.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for THOC1, chr18.224184.C.G
+Ambiguous SNP: gene :THOC1	rsid: chr18.224184.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.229853.C.G
+Ambiguous SNP: gene :THOC1	rsid: chr18.229853.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.354542.G.T
+Match Type 1: gene :THOC1	rsid: chr18.354542.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for THOC1, chr18.387554.T.C
+Match Type 1: gene :THOC1	rsid: chr18.387554.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for THOC1, chr18.465539.C.T
+Match Type 1: gene :THOC1	rsid: chr18.465539.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.499239.G.A
+Match Type 1: gene :THOC1	rsid: chr18.499239.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for THOC1, chr18.564104.C.T
+Match Type 1: gene :THOC1	rsid: chr18.564104.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for THOC1, chr18.633655.C.T
+Match Type 1: gene :THOC1	rsid: chr18.633655.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.953989.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.953989.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.954465.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.954465.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.955042.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.955042.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.955285.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.955285.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.957031.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.957031.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.967483.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.967483.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.967803.A.G
+Match Type 1: gene :ADCYAP1	rsid: chr18.967803.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ADCYAP1, chr18.968472.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.968472.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.970670.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.970670.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.978639.C.G
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.978639.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.979088.C.G
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.979088.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.979176.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.979176.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.979496.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.979496.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.980225.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.980225.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.983078.C.G
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.983078.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.983188.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.983188.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.985108.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.985108.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.985320.G.A
+Match Type 1: gene :ADCYAP1	rsid: chr18.985320.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ADCYAP1, chr18.986599.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.986599.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.986808.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.986808.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.986978.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.986978.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.993553.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.993553.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.998251.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.998251.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ADCYAP1, chr18.1193210.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.1193210.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.1200502.T.C
+Match Type 1: gene :ADCYAP1	rsid: chr18.1200502.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.1357652.T.A
+Ambiguous SNP: gene :ADCYAP1	rsid: chr18.1357652.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for ADCYAP1, chr18.1373924.C.T
+Match Type 1: gene :ADCYAP1	rsid: chr18.1373924.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MYOM1, chr18.3012078.C.G
+Ambiguous SNP: gene :MYOM1	rsid: chr18.3012078.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3047192.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3047192.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MYOM1, chr18.3089522.G.T
+Match Type 1: gene :MYOM1	rsid: chr18.3089522.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3202590.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3202590.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MYOM1, chr18.3215030.C.A
+Match Type 1: gene :MYOM1	rsid: chr18.3215030.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for MYOM1, chr18.3218295.A.T
+Ambiguous SNP: gene :MYOM1	rsid: chr18.3218295.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for MYOM1, chr18.3221172.T.C
+Match Type 1: gene :MYOM1	rsid: chr18.3221172.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3225312.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3225312.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3225742.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3225742.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3225752.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3225752.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3226196.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3226196.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3226233.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3226233.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3226360.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3226360.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3226450.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3226450.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3226470.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3226470.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3227393.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3227393.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3228847.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3228847.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3229717.C.T
+Match Type 1: gene :TGIF1	rsid: chr18.3229717.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3268889.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3268889.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3287185.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3287185.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3296316.T.C
+Match Type 1: gene :MYOM1	rsid: chr18.3296316.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MYOM1, chr18.3307534.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3307534.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3311748.G.T
+Match Type 1: gene :MYOM1	rsid: chr18.3311748.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3350197.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3350197.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3396070.G.C
+Ambiguous SNP: gene :MYOM1	rsid: chr18.3396070.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3396070.G.C
+Ambiguous SNP: gene :TGIF1	rsid: chr18.3396070.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3503820.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3503820.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3503820.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3503820.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3510290.G.A
+Match Type 1: gene :MYOM1	rsid: chr18.3510290.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3515187.G.T
+Match Type 1: gene :MYOM1	rsid: chr18.3515187.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for MYOM1, chr18.3515638.C.A
+Match Type 1: gene :MYOM1	rsid: chr18.3515638.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3534175.G.A
+Match Type 1: gene :TGIF1	rsid: chr18.3534175.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TGIF1, chr18.3535365.T.G
+Match Type 1: gene :TGIF1	rsid: chr18.3535365.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for MYOM1, chr18.3653037.C.T
+Match Type 1: gene :MYOM1	rsid: chr18.3653037.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TGIF1, chr18.3791194.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3791194.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3924523.T.C
+Match Type 1: gene :TGIF1	rsid: chr18.3924523.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TGIF1, chr18.3925340.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3925340.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3926400.A.G
+Match Type 1: gene :TGIF1	rsid: chr18.3926400.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TGIF1, chr18.3926468.C.A
+Match Type 1: gene :TGIF1	rsid: chr18.3926468.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5393024.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5393024.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5394106.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5394106.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5449140.T.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5449140.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5456725.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5456725.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5456774.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5456774.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5494207.C.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5494207.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5494217.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5494217.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5592529.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5592529.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5595487.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5595487.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5652809.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5652809.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5663946.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5663946.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5665454.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5665454.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5693091.G.C
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5693091.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5704656.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5704656.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5721453.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5721453.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5727228.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5727228.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5749418.A.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5749418.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5821263.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5821263.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5850612.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5850612.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5862524.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5862524.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5889765.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5889765.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5897091.G.C
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5897091.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5908869.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5908869.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5915072.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5915072.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5921860.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5921860.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5927441.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5927441.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5928479.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5928479.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.5930979.A.C
+Match Type 1: gene :TMEM200C	rsid: chr18.5930979.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5932037.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5932037.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5945254.C.A
+Match Type 1: gene :TMEM200C	rsid: chr18.5945254.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.5948226.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.5948226.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.5950153.T.G
+Match Type 1: gene :TMEM200C	rsid: chr18.5950153.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.5978931.C.T
+Match Type 1: gene :TMEM200C	rsid: chr18.5978931.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.6005847.G.A
+Match Type 1: gene :TMEM200C	rsid: chr18.6005847.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM200C, chr18.6007921.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.6007921.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6008583.A.C
+Match Type 1: gene :TMEM200C	rsid: chr18.6008583.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6008961.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.6008961.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.6012357.C.A
+Match Type 1: gene :TMEM200C	rsid: chr18.6012357.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM200C, chr18.6022769.A.T
+Ambiguous SNP: gene :TMEM200C	rsid: chr18.6022769.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6085916.T.C
+Match Type 1: gene :TMEM200C	rsid: chr18.6085916.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM200C, chr18.6127463.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.6127463.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM200C, chr18.6386658.A.G
+Match Type 1: gene :TMEM200C	rsid: chr18.6386658.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.8934984.C.A
+Match Type 1: gene :TWSG1	rsid: chr18.8934984.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.8955928.C.A
+Match Type 1: gene :TWSG1	rsid: chr18.8955928.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9186684.G.T
+Match Type 1: gene :TWSG1	rsid: chr18.9186684.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9352858.A.C
+Match Type 1: gene :TWSG1	rsid: chr18.9352858.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9361613.T.G
+Match Type 1: gene :TWSG1	rsid: chr18.9361613.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9363215.T.G
+Match Type 1: gene :TWSG1	rsid: chr18.9363215.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9363790.C.A
+Match Type 1: gene :TWSG1	rsid: chr18.9363790.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9364197.T.C
+Match Type 1: gene :TWSG1	rsid: chr18.9364197.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9365399.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9365399.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9365590.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9365590.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9371163.C.G
+Ambiguous SNP: gene :TWSG1	rsid: chr18.9371163.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9375843.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9375843.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9382007.T.C
+Match Type 1: gene :TWSG1	rsid: chr18.9382007.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TWSG1, chr18.9382477.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9382477.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9386121.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9386121.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9390346.A.G
+Match Type 1: gene :TWSG1	rsid: chr18.9390346.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9396995.G.A
+Match Type 1: gene :TWSG1	rsid: chr18.9396995.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TWSG1, chr18.9397004.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9397004.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9397015.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9397015.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9397172.T.G
+Match Type 1: gene :TWSG1	rsid: chr18.9397172.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.9657501.C.T
+Match Type 1: gene :RAB31	rsid: chr18.9657501.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RAB31, chr18.9672660.A.G
+Match Type 1: gene :RAB31	rsid: chr18.9672660.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9696766.A.C
+Match Type 1: gene :TWSG1	rsid: chr18.9696766.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TWSG1, chr18.9699552.C.T
+Match Type 1: gene :TWSG1	rsid: chr18.9699552.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RAB31, chr18.9700456.C.G
+Ambiguous SNP: gene :RAB31	rsid: chr18.9700456.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9700456.C.G
+Ambiguous SNP: gene :TWSG1	rsid: chr18.9700456.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TWSG1, chr18.9702461.T.A
+Ambiguous SNP: gene :TWSG1	rsid: chr18.9702461.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.9707102.T.A
+Ambiguous SNP: gene :RAB31	rsid: chr18.9707102.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.9836589.A.G
+Match Type 1: gene :RAB31	rsid: chr18.9836589.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10197500.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10197500.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RAB31, chr18.10239316.T.C
+Match Type 1: gene :RAB31	rsid: chr18.10239316.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.10239335.C.G
+Ambiguous SNP: gene :RAB31	rsid: chr18.10239335.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for RAB31, chr18.10239428.T.A
+Ambiguous SNP: gene :RAB31	rsid: chr18.10239428.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for RAB31, chr18.10239522.A.G
+Match Type 1: gene :RAB31	rsid: chr18.10239522.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RAB31, chr18.10239569.G.T
+Match Type 1: gene :RAB31	rsid: chr18.10239569.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for RAB31, chr18.10239597.G.A
+Match Type 1: gene :RAB31	rsid: chr18.10239597.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10351703.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10351703.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10397743.G.T
+Match Type 1: gene :NAPG	rsid: chr18.10397743.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10447547.C.T
+Match Type 1: gene :NAPG	rsid: chr18.10447547.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10493908.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10493908.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10502425.G.T
+Match Type 1: gene :NAPG	rsid: chr18.10502425.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10503663.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10503663.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10505276.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10505276.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10505584.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10505584.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10525585.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10525585.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10526263.C.G
+Ambiguous SNP: gene :NAPG	rsid: chr18.10526263.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10526284.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10526284.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10526413.T.C
+Match Type 1: gene :NAPG	rsid: chr18.10526413.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for NAPG, chr18.10527354.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10527354.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10531606.A.C
+Match Type 1: gene :NAPG	rsid: chr18.10531606.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10532939.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10532939.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10535490.G.T
+Match Type 1: gene :NAPG	rsid: chr18.10535490.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10536628.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10536628.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10538129.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10538129.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10538758.A.T
+Ambiguous SNP: gene :NAPG	rsid: chr18.10538758.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10539739.A.G
+Match Type 1: gene :NAPG	rsid: chr18.10539739.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for NAPG, chr18.10547000.C.T
+Match Type 1: gene :NAPG	rsid: chr18.10547000.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10549435.T.C
+Match Type 1: gene :NAPG	rsid: chr18.10549435.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for NAPG, chr18.10556836.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10556836.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for NAPG, chr18.10900786.C.T
+Match Type 1: gene :NAPG	rsid: chr18.10900786.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for NAPG, chr18.10921579.G.A
+Match Type 1: gene :NAPG	rsid: chr18.10921579.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.11484097.T.G
+Match Type 1: gene :IMPA2	rsid: chr18.11484097.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11486483.A.C
+Match Type 1: gene :IMPA2	rsid: chr18.11486483.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for IMPA2, chr18.11524744.A.T
+Ambiguous SNP: gene :IMPA2	rsid: chr18.11524744.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for IMPA2, chr18.11576119.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11576119.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11802153.C.A
+Match Type 1: gene :IMPA2	rsid: chr18.11802153.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for IMPA2, chr18.11955987.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11955987.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11984196.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11984196.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11987988.C.A
+Match Type 1: gene :IMPA2	rsid: chr18.11987988.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for IMPA2, chr18.11988098.G.C
+Ambiguous SNP: gene :IMPA2	rsid: chr18.11988098.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.11988517.T.G
+Match Type 1: gene :IMPA2	rsid: chr18.11988517.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11988637.A.G
+Match Type 1: gene :IMPA2	rsid: chr18.11988637.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for IMPA2, chr18.11988855.G.A
+Match Type 1: gene :IMPA2	rsid: chr18.11988855.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.11999115.T.C
+Match Type 1: gene :IMPA2	rsid: chr18.11999115.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for IMPA2, chr18.11999556.G.T
+Match Type 1: gene :IMPA2	rsid: chr18.11999556.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for IMPA2, chr18.12254816.A.G
+Match Type 1: gene :IMPA2	rsid: chr18.12254816.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12404816.A.C
+Match Type 1: gene :SLMO1	rsid: chr18.12404816.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12407916.G.T
+Match Type 1: gene :SLMO1	rsid: chr18.12407916.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12410278.C.G
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12410278.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12413985.G.T
+Match Type 1: gene :SLMO1	rsid: chr18.12413985.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12414776.C.G
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12414776.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12414848.G.C
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12414848.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12415136.G.A
+Match Type 1: gene :SLMO1	rsid: chr18.12415136.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12415571.A.G
+Match Type 1: gene :SLMO1	rsid: chr18.12415571.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12416722.G.A
+Match Type 1: gene :SLMO1	rsid: chr18.12416722.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12438519.C.G
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12438519.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12439062.A.C
+Match Type 1: gene :SLMO1	rsid: chr18.12439062.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for SLMO1, chr18.12444107.T.C
+Match Type 1: gene :SLMO1	rsid: chr18.12444107.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for SLMO1, chr18.12446116.G.C
+Ambiguous SNP: gene :SLMO1	rsid: chr18.12446116.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12446689.G.T
+Match Type 1: gene :SLMO1	rsid: chr18.12446689.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for SLMO1, chr18.12477796.C.T
+Match Type 1: gene :SLMO1	rsid: chr18.12477796.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for SLMO1, chr18.12485188.C.T
+Match Type 1: gene :SLMO1	rsid: chr18.12485188.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12736491.A.G
+Match Type 1: gene :CEP192	rsid: chr18.12736491.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.12951738.G.A
+Match Type 1: gene :CEP192	rsid: chr18.12951738.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12954740.G.T
+Match Type 1: gene :CEP192	rsid: chr18.12954740.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12959059.C.T
+Match Type 1: gene :CEP192	rsid: chr18.12959059.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12970262.G.A
+Match Type 1: gene :CEP192	rsid: chr18.12970262.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12977206.A.C
+Match Type 1: gene :CEP192	rsid: chr18.12977206.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.12977630.C.G
+Ambiguous SNP: gene :CEP192	rsid: chr18.12977630.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12978183.T.C
+Match Type 1: gene :CEP192	rsid: chr18.12978183.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.12984144.C.A
+Match Type 1: gene :CEP192	rsid: chr18.12984144.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.12984340.A.C
+Match Type 1: gene :CEP192	rsid: chr18.12984340.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.12986000.G.A
+Match Type 1: gene :CEP192	rsid: chr18.12986000.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.12991393.T.C
+Match Type 1: gene :CEP192	rsid: chr18.12991393.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.12999964.A.G
+Match Type 1: gene :CEP192	rsid: chr18.12999964.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13005473.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13005473.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13026120.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13026120.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13029068.T.G
+Match Type 1: gene :CEP192	rsid: chr18.13029068.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13047784.T.G
+Match Type 1: gene :CEP192	rsid: chr18.13047784.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13058318.A.G
+Match Type 1: gene :CEP192	rsid: chr18.13058318.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13059494.T.A
+Ambiguous SNP: gene :CEP192	rsid: chr18.13059494.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13065484.C.A
+Match Type 1: gene :CEP192	rsid: chr18.13065484.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13066123.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13066123.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13068132.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13068132.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13069782.C.T
+Match Type 1: gene :CEP192	rsid: chr18.13069782.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13070930.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13070930.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13081303.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13081303.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13087789.A.G
+Match Type 1: gene :CEP192	rsid: chr18.13087789.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13087815.G.A
+Match Type 1: gene :CEP192	rsid: chr18.13087815.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.13091661.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13091661.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13095609.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13095609.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13096436.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13096436.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13104251.A.G
+Match Type 1: gene :CEP192	rsid: chr18.13104251.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for CEP192, chr18.13106337.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13106337.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13109879.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13109879.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13113197.C.T
+Match Type 1: gene :CEP192	rsid: chr18.13113197.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13116432.G.T
+Match Type 1: gene :CEP192	rsid: chr18.13116432.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for CEP192, chr18.13123645.C.G
+Ambiguous SNP: gene :CEP192	rsid: chr18.13123645.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13123876.C.G
+Ambiguous SNP: gene :CEP192	rsid: chr18.13123876.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13180323.C.A
+Match Type 1: gene :CEP192	rsid: chr18.13180323.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for CEP192, chr18.13451436.T.C
+Match Type 1: gene :CEP192	rsid: chr18.13451436.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for CEP192, chr18.13564877.G.A
+Match Type 1: gene :CEP192	rsid: chr18.13564877.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZNF519, chr18.13884009.G.A
+Match Type 1: gene :ZNF519	rsid: chr18.13884009.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZNF519, chr18.13916579.T.A
+Ambiguous SNP: gene :ZNF519	rsid: chr18.13916579.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for ZNF519, chr18.14027616.T.C
+Match Type 1: gene :ZNF519	rsid: chr18.14027616.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ZNF519, chr18.14028535.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14028535.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZNF519, chr18.14035207.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14035207.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZNF519, chr18.14132402.G.C
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14132402.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for ZNF519, chr18.14141133.A.G
+Match Type 1: gene :ZNF519	rsid: chr18.14141133.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ZNF519, chr18.14141788.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14141788.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZNF519, chr18.14328068.C.G
+Ambiguous SNP: gene :ZNF519	rsid: chr18.14328068.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19308346.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19308346.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19313108.G.T
+Match Type 1: gene :MIB1	rsid: chr18.19313108.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19320823.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19320823.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19324423.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19324423.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19325482.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19325482.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19329203.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19329203.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19330151.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19330151.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19338932.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19338932.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19363221.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19363221.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19364412.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19364412.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19364600.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19364600.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19370108.A.G
+Match Type 1: gene :MIB1	rsid: chr18.19370108.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for MIB1, chr18.19373993.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19373993.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19381456.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19381456.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19401854.G.A
+Match Type 1: gene :MIB1	rsid: chr18.19401854.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for MIB1, chr18.19432430.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19432430.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19435100.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19435100.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19440341.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19440341.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19455004.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19455004.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19462178.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19462178.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19462669.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19462669.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19473973.A.G
+Match Type 1: gene :MIB1	rsid: chr18.19473973.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for MIB1, chr18.19601717.T.G
+Match Type 1: gene :MIB1	rsid: chr18.19601717.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19681372.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19681372.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19701351.A.G
+Match Type 1: gene :MIB1	rsid: chr18.19701351.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for MIB1, chr18.19805214.C.T
+Match Type 1: gene :MIB1	rsid: chr18.19805214.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19857690.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19857690.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for MIB1, chr18.19910184.C.G
+Ambiguous SNP: gene :MIB1	rsid: chr18.19910184.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for MIB1, chr18.19910949.T.C
+Match Type 1: gene :MIB1	rsid: chr18.19910949.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20412351.G.T
+Match Type 1: gene :TMEM241	rsid: chr18.20412351.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20577178.A.G
+Match Type 1: gene :TMEM241	rsid: chr18.20577178.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.20634344.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20634344.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20650012.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20650012.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20655635.C.G
+Ambiguous SNP: gene :TMEM241	rsid: chr18.20655635.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20682621.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20682621.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20707115.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20707115.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20710155.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20710155.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20827587.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20827587.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20855609.T.C
+Match Type 1: gene :TMEM241	rsid: chr18.20855609.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20855619.T.C
+Match Type 1: gene :TMEM241	rsid: chr18.20855619.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20877564.T.C
+Match Type 1: gene :TMEM241	rsid: chr18.20877564.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TMEM241, chr18.20916950.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20916950.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20925963.A.C
+Match Type 1: gene :TMEM241	rsid: chr18.20925963.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.20931239.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20931239.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20934999.C.A
+Match Type 1: gene :TMEM241	rsid: chr18.20934999.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.20938938.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20938938.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20953720.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.20953720.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.20961635.C.T
+Match Type 1: gene :TMEM241	rsid: chr18.20961635.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.21016793.G.T
+Match Type 1: gene :TMEM241	rsid: chr18.21016793.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.21075466.A.C
+Match Type 1: gene :TMEM241	rsid: chr18.21075466.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.21140367.G.A
+Match Type 1: gene :TMEM241	rsid: chr18.21140367.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TMEM241, chr18.21162161.A.G
+Match Type 1: gene :TMEM241	rsid: chr18.21162161.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TMEM241, chr18.21242304.C.G
+Ambiguous SNP: gene :TMEM241	rsid: chr18.21242304.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TMEM241, chr18.21441302.T.A
+Ambiguous SNP: gene :TMEM241	rsid: chr18.21441302.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.33362043.C.T
+Match Type 1: gene :ELP2	rsid: chr18.33362043.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33363528.C.G
+Ambiguous SNP: gene :ELP2	rsid: chr18.33363528.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33368313.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33368313.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.33484792.G.A
+Match Type 1: gene :ELP2	rsid: chr18.33484792.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.33532971.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33532971.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.33669222.C.G
+Ambiguous SNP: gene :ELP2	rsid: chr18.33669222.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33796927.C.T
+Match Type 1: gene :ELP2	rsid: chr18.33796927.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33811836.T.C
+Match Type 1: gene :ELP2	rsid: chr18.33811836.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.33813085.C.A
+Match Type 1: gene :ELP2	rsid: chr18.33813085.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33820801.C.G
+Ambiguous SNP: gene :ELP2	rsid: chr18.33820801.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33824500.C.A
+Match Type 1: gene :ELP2	rsid: chr18.33824500.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33828659.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33828659.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.33828805.C.T
+Match Type 1: gene :ELP2	rsid: chr18.33828805.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33831189.C.A
+Match Type 1: gene :ELP2	rsid: chr18.33831189.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33860831.G.A
+Match Type 1: gene :ELP2	rsid: chr18.33860831.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.33860831.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.33860831.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.33870774.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.33870774.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.33974664.A.G
+Match Type 1: gene :ELP2	rsid: chr18.33974664.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34010470.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34010470.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34010589.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34010589.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34033636.A.G
+Match Type 1: gene :ELP2	rsid: chr18.34033636.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.34036296.T.G
+Match Type 1: gene :ELP2	rsid: chr18.34036296.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34070528.T.G
+Match Type 1: gene :TPGS2	rsid: chr18.34070528.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34085432.A.G
+Match Type 1: gene :ELP2	rsid: chr18.34085432.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34088297.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34088297.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34109392.T.C
+Match Type 1: gene :ELP2	rsid: chr18.34109392.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34115469.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34115469.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34124843.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34124843.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34128316.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34128316.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.34157719.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34157719.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34158730.G.T
+Match Type 1: gene :ELP2	rsid: chr18.34158730.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34159946.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34159946.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34186660.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34186660.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34187189.G.C
+Ambiguous SNP: gene :ELP2	rsid: chr18.34187189.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34189665.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34189665.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34191323.T.G
+Match Type 1: gene :ELP2	rsid: chr18.34191323.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34192160.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34192160.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34219418.G.T
+Match Type 1: gene :ELP2	rsid: chr18.34219418.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34219451.G.A
+Match Type 1: gene :ELP2	rsid: chr18.34219451.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34251815.G.A
+Match Type 1: gene :ELP2	rsid: chr18.34251815.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34255116.A.G
+Match Type 1: gene :ELP2	rsid: chr18.34255116.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ELP2, chr18.34255177.C.T
+Match Type 1: gene :ELP2	rsid: chr18.34255177.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ELP2, chr18.34255303.T.C
+Match Type 1: gene :ELP2	rsid: chr18.34255303.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for ELP2, chr18.34255656.G.A
+Match Type 1: gene :ELP2	rsid: chr18.34255656.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ELP2, chr18.34255767.T.C
+Match Type 1: gene :ELP2	rsid: chr18.34255767.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34261048.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34261048.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34261190.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34261190.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34261559.T.A
+Ambiguous SNP: gene :TPGS2	rsid: chr18.34261559.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34262799.C.A
+Match Type 1: gene :TPGS2	rsid: chr18.34262799.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34263420.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34263420.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34265969.G.T
+Match Type 1: gene :TPGS2	rsid: chr18.34265969.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34266036.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34266036.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34268690.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34268690.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34294704.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34294704.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34340183.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34340183.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34348904.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34348904.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34355579.T.G
+Match Type 1: gene :TPGS2	rsid: chr18.34355579.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34361762.G.C
+Ambiguous SNP: gene :TPGS2	rsid: chr18.34361762.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34379353.C.G
+Ambiguous SNP: gene :TPGS2	rsid: chr18.34379353.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34382837.C.A
+Match Type 1: gene :TPGS2	rsid: chr18.34382837.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34389391.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34389391.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34398914.C.T
+Match Type 1: gene :TPGS2	rsid: chr18.34398914.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for TPGS2, chr18.34400459.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34400459.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34400702.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34400702.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34410831.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34410831.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34429254.T.C
+Match Type 1: gene :TPGS2	rsid: chr18.34429254.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for TPGS2, chr18.34502171.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34502171.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34578888.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34578888.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34635606.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34635606.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for TPGS2, chr18.34731805.A.G
+Match Type 1: gene :TPGS2	rsid: chr18.34731805.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for TPGS2, chr18.34848136.G.A
+Match Type 1: gene :TPGS2	rsid: chr18.34848136.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.42953909.C.A
+Match Type 1: gene :EPG5	rsid: chr18.42953909.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.42958913.A.G
+Match Type 1: gene :EPG5	rsid: chr18.42958913.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.42959477.C.A
+Match Type 1: gene :EPG5	rsid: chr18.42959477.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.42960592.G.A
+Match Type 1: gene :EPG5	rsid: chr18.42960592.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43150994.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43150994.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43229858.G.A
+Match Type 1: gene :EPG5	rsid: chr18.43229858.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43250379.A.G
+Match Type 1: gene :EPG5	rsid: chr18.43250379.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.43253100.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43253100.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43468947.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43468947.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43472035.A.C
+Match Type 1: gene :EPG5	rsid: chr18.43472035.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.43473375.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43473375.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43474923.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43474923.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43475402.C.G
+Ambiguous SNP: gene :EPG5	rsid: chr18.43475402.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43476386.G.C
+Ambiguous SNP: gene :EPG5	rsid: chr18.43476386.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43481755.C.T
+Match Type 1: gene :EPG5	rsid: chr18.43481755.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for EPG5, chr18.43485710.A.G
+Match Type 1: gene :EPG5	rsid: chr18.43485710.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for EPG5, chr18.43497710.A.G
+Match Type 1: gene :EPG5	rsid: chr18.43497710.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RNF165, chr18.43559623.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43559623.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43575061.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43575061.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43793488.T.C
+Match Type 1: gene :EPG5	rsid: chr18.43793488.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for EPG5, chr18.43873021.G.A
+Match Type 1: gene :EPG5	rsid: chr18.43873021.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43876309.T.C
+Match Type 1: gene :RNF165	rsid: chr18.43876309.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RNF165, chr18.43888147.C.G
+Ambiguous SNP: gene :RNF165	rsid: chr18.43888147.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.43890429.C.T
+Match Type 1: gene :RNF165	rsid: chr18.43890429.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.43901516.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43901516.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for EPG5, chr18.43902711.G.A
+Match Type 1: gene :EPG5	rsid: chr18.43902711.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43943509.T.C
+Match Type 1: gene :RNF165	rsid: chr18.43943509.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RNF165, chr18.43944319.G.A
+Match Type 1: gene :RNF165	rsid: chr18.43944319.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RNF165, chr18.43946837.T.C
+Match Type 1: gene :RNF165	rsid: chr18.43946837.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for EPG5, chr18.43964478.T.C
+Match Type 1: gene :EPG5	rsid: chr18.43964478.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RNF165, chr18.44141178.C.T
+Match Type 1: gene :RNF165	rsid: chr18.44141178.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.44216180.C.T
+Match Type 1: gene :RNF165	rsid: chr18.44216180.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RNF165, chr18.44216758.C.T
+Match Type 1: gene :RNF165	rsid: chr18.44216758.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46517895.A.C
+Match Type 1: gene :RPL17	rsid: chr18.46517895.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.46517900.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46517900.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46518624.G.T
+Match Type 1: gene :RPL17	rsid: chr18.46518624.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46525660.C.T
+Match Type 1: gene :RPL17	rsid: chr18.46525660.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46532042.C.G
+Ambiguous SNP: gene :RPL17	rsid: chr18.46532042.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46533841.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46533841.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46537012.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46537012.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.46540942.C.A
+Match Type 1: gene :RPL17	rsid: chr18.46540942.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.46595499.C.T
+Match Type 1: gene :LIPG	rsid: chr18.46595499.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.46653245.A.T
+Ambiguous SNP: gene :LIPG	rsid: chr18.46653245.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.46655215.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46655215.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.46668256.C.G
+Ambiguous SNP: gene :LIPG	rsid: chr18.46668256.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.46713516.C.T
+Match Type 1: gene :LIPG	rsid: chr18.46713516.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46807168.A.C
+Match Type 1: gene :RPL17	rsid: chr18.46807168.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.46874780.C.T
+Match Type 1: gene :RPL17	rsid: chr18.46874780.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.46878862.G.A
+Match Type 1: gene :RPL17	rsid: chr18.46878862.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.46955354.T.C
+Match Type 1: gene :LIPG	rsid: chr18.46955354.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47005435.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47005435.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47011611.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47011611.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47011741.T.C
+Match Type 1: gene :RPL17	rsid: chr18.47011741.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47011784.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47011784.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47011885.T.C
+Match Type 1: gene :RPL17	rsid: chr18.47011885.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47012834.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47012834.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47013626.G.T
+Match Type 1: gene :RPL17	rsid: chr18.47013626.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47016787.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47016787.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47018198.T.G
+Match Type 1: gene :RPL17	rsid: chr18.47018198.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47021774.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47021774.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47023277.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47023277.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47085440.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47085440.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47113807.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47113807.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47138509.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47138509.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.47140409.C.T
+Match Type 1: gene :LIPG	rsid: chr18.47140409.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47171046.A.T
+Ambiguous SNP: gene :RPL17	rsid: chr18.47171046.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47175670.A.C
+Match Type 1: gene :RPL17	rsid: chr18.47175670.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47178583.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47178583.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for RPL17, chr18.47181568.G.A
+Match Type 1: gene :RPL17	rsid: chr18.47181568.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.47190835.A.G
+Match Type 1: gene :LIPG	rsid: chr18.47190835.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for LIPG, chr18.47192294.C.A
+Match Type 1: gene :LIPG	rsid: chr18.47192294.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.47192712.G.A
+Match Type 1: gene :LIPG	rsid: chr18.47192712.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for LIPG, chr18.47428107.A.G
+Match Type 1: gene :LIPG	rsid: chr18.47428107.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for RPL17, chr18.47445407.C.T
+Match Type 1: gene :RPL17	rsid: chr18.47445407.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for LIPG, chr18.47506520.T.C
+Match Type 1: gene :LIPG	rsid: chr18.47506520.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for LIPG, chr18.47507426.C.T
+Match Type 1: gene :LIPG	rsid: chr18.47507426.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for RPL17, chr18.47514474.T.C
+Match Type 1: gene :RPL17	rsid: chr18.47514474.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for RPL17, chr18.47518652.A.G
+Match Type 1: gene :RPL17	rsid: chr18.47518652.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for LIPG, chr18.47524857.C.T
+Match Type 1: gene :LIPG	rsid: chr18.47524857.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51471757.A.G
+Match Type 1: gene :POLI	rsid: chr18.51471757.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51476888.G.A
+Match Type 1: gene :POLI	rsid: chr18.51476888.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51496204.A.G
+Match Type 1: gene :POLI	rsid: chr18.51496204.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51496791.G.A
+Match Type 1: gene :POLI	rsid: chr18.51496791.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51687280.G.A
+Match Type 1: gene :POLI	rsid: chr18.51687280.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51766435.C.T
+Match Type 1: gene :POLI	rsid: chr18.51766435.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51767004.A.G
+Match Type 1: gene :POLI	rsid: chr18.51767004.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51767894.T.C
+Match Type 1: gene :POLI	rsid: chr18.51767894.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51769949.G.C
+Ambiguous SNP: gene :POLI	rsid: chr18.51769949.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51771322.T.C
+Match Type 1: gene :POLI	rsid: chr18.51771322.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51775271.C.T
+Match Type 1: gene :POLI	rsid: chr18.51775271.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51781019.T.C
+Match Type 1: gene :POLI	rsid: chr18.51781019.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51782775.C.T
+Match Type 1: gene :POLI	rsid: chr18.51782775.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51784064.T.A
+Ambiguous SNP: gene :POLI	rsid: chr18.51784064.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51787992.T.A
+Ambiguous SNP: gene :POLI	rsid: chr18.51787992.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51793968.A.G
+Match Type 1: gene :POLI	rsid: chr18.51793968.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51795847.G.T
+Match Type 1: gene :POLI	rsid: chr18.51795847.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51798047.C.G
+Ambiguous SNP: gene :POLI	rsid: chr18.51798047.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51802708.C.A
+Match Type 1: gene :POLI	rsid: chr18.51802708.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51802787.T.C
+Match Type 1: gene :POLI	rsid: chr18.51802787.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51813966.T.A
+Ambiguous SNP: gene :POLI	rsid: chr18.51813966.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for POLI, chr18.51815283.A.G
+Match Type 1: gene :POLI	rsid: chr18.51815283.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for POLI, chr18.51830294.C.T
+Match Type 1: gene :POLI	rsid: chr18.51830294.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51842904.C.A
+Match Type 1: gene :POLI	rsid: chr18.51842904.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51854704.G.A
+Match Type 1: gene :POLI	rsid: chr18.51854704.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for POLI, chr18.51856027.C.T
+Match Type 1: gene :POLI	rsid: chr18.51856027.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51859615.C.T
+Match Type 1: gene :POLI	rsid: chr18.51859615.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51864456.C.T
+Match Type 1: gene :POLI	rsid: chr18.51864456.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for POLI, chr18.51874499.T.C
+Match Type 1: gene :POLI	rsid: chr18.51874499.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59278471.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59278471.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59284584.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59284584.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for KIAA1468, chr18.59414248.A.G
+Match Type 1: gene :KIAA1468	rsid: chr18.59414248.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59751331.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59751331.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59753135.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59753135.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59753453.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59753453.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59755803.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59755803.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59763553.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59763553.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59773510.T.A
+Ambiguous SNP: gene :PIGN	rsid: chr18.59773510.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59779121.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59779121.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59785119.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59785119.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59789644.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59789644.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59790460.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59790460.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59791041.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59791041.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59791951.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59791951.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59798534.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59798534.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59801496.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59801496.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59809505.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59809505.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59812275.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59812275.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59812348.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59812348.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59831462.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59831462.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59834469.A.C
+Match Type 1: gene :PIGN	rsid: chr18.59834469.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59836405.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59836405.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59840597.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59840597.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59840673.C.G
+Ambiguous SNP: gene :PIGN	rsid: chr18.59840673.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59841968.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59841968.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59843449.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59843449.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59843751.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59843751.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59844097.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59844097.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59844304.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59844304.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59845916.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59845916.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59845930.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59845930.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59846395.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59846395.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59847435.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59847435.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59847669.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59847669.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59848365.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59848365.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59848796.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59848796.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59849022.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59849022.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59849541.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59849541.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59851242.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59851242.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59851645.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59851645.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59852101.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59852101.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59852732.T.A
+Ambiguous SNP: gene :PIGN	rsid: chr18.59852732.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59854253.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59854253.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59856749.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59856749.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59857499.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59857499.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59857583.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59857583.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59858140.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59858140.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59858837.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59858837.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59859060.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59859060.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59863298.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59863298.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59867101.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59867101.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59867736.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59867736.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59871234.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59871234.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59873480.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59873480.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59875310.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59875310.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59875341.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59875341.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59876428.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59876428.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59876495.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59876495.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59876950.G.T
+Match Type 1: gene :PIGN	rsid: chr18.59876950.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59877940.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59877940.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59878184.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59878184.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59881409.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59881409.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59882684.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59882684.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59883927.A.T
+Ambiguous SNP: gene :PIGN	rsid: chr18.59883927.A.T	DB Ref: T	User Ref: T	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59885402.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59885402.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59885668.G.C
+Ambiguous SNP: gene :PIGN	rsid: chr18.59885668.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59888588.T.G
+Match Type 1: gene :PIGN	rsid: chr18.59888588.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59889844.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59889844.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59889968.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59889968.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59890005.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59890005.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59890693.C.A
+Match Type 1: gene :PIGN	rsid: chr18.59890693.C.A	DB Ref: A	User Ref: A	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59890998.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59890998.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59891158.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59891158.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59891448.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59891448.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59891490.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59891490.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59892181.T.A
+Ambiguous SNP: gene :PIGN	rsid: chr18.59892181.T.A	DB Ref: A	User Ref: A	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59896321.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59896321.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59900169.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59900169.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59902869.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59902869.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59905893.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59905893.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59907063.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59907063.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59907758.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59907758.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59908482.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59908482.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59908592.C.T
+Match Type 1: gene :PIGN	rsid: chr18.59908592.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for PIGN, chr18.59929009.G.A
+Match Type 1: gene :PIGN	rsid: chr18.59929009.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for PIGN, chr18.59929664.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59929664.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59929836.A.C
+Match Type 1: gene :PIGN	rsid: chr18.59929836.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59930426.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59930426.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59931106.A.G
+Match Type 1: gene :PIGN	rsid: chr18.59931106.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for PIGN, chr18.59934344.T.C
+Match Type 1: gene :PIGN	rsid: chr18.59934344.T.C	DB Ref: C	User Ref: C	DB Eff: T	User Eff: T
+Updating for PIGN, chr18.59934426.A.C
+Match Type 1: gene :PIGN	rsid: chr18.59934426.A.C	DB Ref: C	User Ref: C	DB Eff: A	User Eff: A
+Updating for KIAA1468, chr18.60209709.C.G
+Ambiguous SNP: gene :KIAA1468	rsid: chr18.60209709.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for KIAA1468, chr18.60355524.C.G
+Ambiguous SNP: gene :KIAA1468	rsid: chr18.60355524.C.G	DB Ref: G	User Ref: G	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72904986.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72904986.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72907432.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72907432.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72907648.A.G
+Match Type 1: gene :ZADH2	rsid: chr18.72907648.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ZADH2, chr18.72909321.G.C
+Ambiguous SNP: gene :ZADH2	rsid: chr18.72909321.G.C	DB Ref: C	User Ref: C	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72911548.G.A
+Match Type 1: gene :ZADH2	rsid: chr18.72911548.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72912469.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72912469.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72914280.G.A
+Match Type 1: gene :ZADH2	rsid: chr18.72914280.G.A	DB Ref: A	User Ref: A	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72915964.A.G
+Match Type 1: gene :ZADH2	rsid: chr18.72915964.A.G	DB Ref: G	User Ref: G	DB Eff: A	User Eff: A
+Updating for ZADH2, chr18.72919166.G.T
+Match Type 1: gene :ZADH2	rsid: chr18.72919166.G.T	DB Ref: T	User Ref: T	DB Eff: G	User Eff: G
+Updating for ZADH2, chr18.72985563.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72985563.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72988810.C.T
+Match Type 1: gene :ZADH2	rsid: chr18.72988810.C.T	DB Ref: T	User Ref: T	DB Eff: C	User Eff: C
+Updating for ZADH2, chr18.72995404.T.G
+Match Type 1: gene :ZADH2	rsid: chr18.72995404.T.G	DB Ref: G	User Ref: G	DB Eff: T	User Eff: T
+Predicted expression file complete!
