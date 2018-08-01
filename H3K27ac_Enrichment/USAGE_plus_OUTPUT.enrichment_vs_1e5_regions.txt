@@ -1,0 +1,57 @@
+> python snp_vs_bed.py --snp ar_chip_seq_peaks.txt --ref HRC.r1-1.GRCh37.wgs.mac5.sites.tab.gz --num 10000 > test.output
+** NOTE: Created database at ./h3k27ac.db **
+  Creating table: GSM2693368_CPCG_0348_peaks
+  Creating table: GSM2693367_CPCG_0342_peaks
+  Creating table: GSM2693356_CPCG_0248_peaks
+  Creating table: GSM2693362_CPCG_0267_peaks
+  Creating table: GSM2693352_CPCG_0233_peaks
+  Creating table: GSM2693354_CPCG_0242_peaks
+  Creating table: GSM2693364_CPCG_0339_peaks
+  Creating table: GSM2693369_CPCG_0365_peaks
+  Creating table: GSM2693359_CPCG_0262_peaks
+  Creating table: GSM2693361_CPCG_0266_peaks
+  Creating table: GSM2693365_CPCG_0340_peaks
+  Creating table: GSM2693357_CPCG_0258_peaks
+  Creating table: GSM2693370_CPCG_0366_peaks
+  Creating table: GSM2693358_CPCG_0259_peaks
+  Creating table: GSM2693353_CPCG_0236_peaks
+  Creating table: GSM2693360_CPCG_0265_peaks
+  Creating table: GSM2693366_CPCG_0341_peaks
+  Creating table: GSM2693355_CPCG_0246_peaks
+  Creating table: GSM2693363_CPCG_0269_peaks
+** Tallies of Input Overlap with BED ChIP-Seq Peaks **
+  Input (Tally): chr10:51812825 (5)
+  Input (Tally): chr10:51812896 (3)
+  Input (Tally): chr10:51812898 (3)
+  Input (Tally): chr10:51813024 (3)
+  Input (Tally): chr10:51813068 (3)
+  Input (Tally): chr10:51813070 (3)
+  Input (Tally): chr17:618964 (19)
+  Input (Tally): chr17:619161 (19)
+  Input (Tally): chr19:38460492 (1)
+  Input (Tally): chr19:51345263 (19)
+  Input (Tally): chr19:51345567 (7)
+  Input (Tally): chr19:51353954 (18)
+  Input (Tally): chr19:51354396 (19)
+  Input (Tally): chr19:51354410 (19)
+  Input (Tally): chr21:42893757 (9)
+  Input (Tally): chr21:42893807 (13)
+  Input (Tally): chr21:42893907 (19)
+  Input (Tally): chr2:242274488 (0)
+  Input (Tally): chr7:97855461 (19)
+  Input (Tally): chr7:97925533 (19)
+  Input (Tally): chr7:97956179 (4)
+  Input (Tally): chr8:128014414 (0)
+  Input (Tally): chr8:128015091 (0)
+  Input (Tally): chr8:128016372 (0)
+  Input (Tally): chr8:128018204 (0)
+  Input (Tally): chr8:128018465 (0)
+  Input (Tally): chr8:128019308 (0)
+  Input (Tally): chr8:128019902 (0)
+  Input (Tally): chr8:128022940 (13)
+  Input (Tally): chr8:128023058 (13)
+  Input (Tally): chr8:128023385 (9)
+Processing HRC reference site list...  Done.
+** Final Results of Overlap Between Inputs and BED ChIP-Seq Peaks **
+  Query Tallies Mean (SD = Stdev, N = Sample Size): 8.35483870968 (SD = 7.73157909463, N = 31)
+  Null Tallies Mean (SD = Stdev, N = Sample Size): 0.5865 (SD = 2.70797299654, N = 10000)
